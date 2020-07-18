@@ -3,7 +3,7 @@
     <span class="logo__text">
       &larr;
       {{ $static.metadata.siteName }}
-      <g-image width="13rem" src="~/favicon.png"></g-image>
+      <g-image width="32rem" src="~/favicon.png"></g-image>
     </span>
   </g-link>
 </template>
@@ -23,7 +23,7 @@ query {
   font-size: 0.9em;
 
   &__image {
-    vertical-align: baseline;
+    vertical-align: bottom;
     border-radius: 99px;
     height: 40px;
     width: 40px;

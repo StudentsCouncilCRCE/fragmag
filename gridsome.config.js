@@ -1,11 +1,11 @@
 module.exports = {
   siteName: "FragMag",
-  siteDescription: "FragMag 2020 website",
+  siteDescription: "FragMag 2020 - Catalyse",
   templates: {
     Article: "/artices/:endpoint",
     Desk: "/desk/:endpoint",
   },
-  
+
   plugins: [
     {
       use: "@gridsome/source-filesystem",
