@@ -1,6 +1,7 @@
 ---
 title: A post with a cover image
-published: true
+endpoint: image
+published: false
 cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
 canonical_url: false
 section: english

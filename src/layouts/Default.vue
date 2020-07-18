@@ -16,7 +16,7 @@
 
     <footer class="footer">
       <span class="footer__copyright"
-        >Copyright &copy; {{ new Date().getFullYear() }} Students' Council CRCE.
+        >Copyright &copy; {{ new Date().getFullYear() }} Students' Council CRCE
       </span>
     </footer>
   </div>
@@ -43,7 +43,7 @@ export default {
   justify-content: space-between;
   align-items: center;
   min-height: var(--header-height);
-  padding: 0 calc(var(--space) / 2);
+  padding: 0 0px;
   top: 0;
   z-index: 10;
 

@@ -10,10 +10,7 @@
     </div>
     <div class="article-card__content">
       <h2 class="article-card__title" v-html="article.title" />
-      <p class="article-card__description" v-html="article.description" />
-
       <ArticleMeta class="article-card__meta" :article="article" />
-
       <g-link class="article-card__link" :to="article.path">Link</g-link>
     </div>
   </div>

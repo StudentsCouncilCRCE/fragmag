@@ -1,6 +1,10 @@
 <template>
   <g-link class="logo" to="/">
-    <span class="logo__text"> &larr; {{ $static.metadata.siteName }} </span>
+    <span class="logo__text">
+      &larr;
+      {{ $static.metadata.siteName }}
+      <g-image width="13rem" src="~/favicon.png"></g-image>
+    </span>
   </g-link>
 </template>
 
@@ -19,7 +23,7 @@ query {
   font-size: 0.9em;
 
   &__image {
-    vertical-align: middle;
+    vertical-align: baseline;
     border-radius: 99px;
     height: 40px;
     width: 40px;

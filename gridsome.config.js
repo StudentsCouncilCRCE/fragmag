@@ -2,14 +2,30 @@ module.exports = {
   siteName: "FragMag",
   siteDescription: "FragMag 2020 website",
   templates: {
-    Article: "/artices/:title",
+    Article: "/artices/:endpoint",
+    Desk: "/desk/:endpoint",
   },
+  
   plugins: [
     {
       use: "@gridsome/source-filesystem",
       options: {
         typeName: "Article",
         path: "content/articles/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Desk",
+        path: "content/desk/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Desk",
+        path: "content/editors/*.md",
       },
     },
   ],
