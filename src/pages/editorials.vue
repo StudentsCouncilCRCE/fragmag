@@ -20,10 +20,10 @@
     <br />
     <div>
       <div class="m-4 grid grid-cols-1 xl:grid-cols-3 gap-5">
-        <ArticleCard
+        <ImageCard
           v-for="edge in $page.editorials.edges"
           :key="edge.node.id"
-          :article="edge.node"
+          :item="edge.node"
         />
       </div>
     </div>
@@ -47,11 +47,11 @@ query {
 </page-query>
 
 <script>
-import ArticleCard from "~/components/ArticleCard.vue";
+import ImageCard from "~/components/ImageCard.vue";
 
 export default {
   components: {
-    ArticleCard,
+    ImageCard,
   },
   metaInfo: {
     title: "Editorials",

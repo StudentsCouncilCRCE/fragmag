@@ -33,8 +33,9 @@ export default {
 
 <style lang="scss">
 .article-card {
-  margin-bottom: var(--space);
+  margin-bottom: calc(var(--space) - 10px);
   position: relative;
+  text-align: center;
 
   &__header {
     margin-left: calc(var(--space) * -1);
@@ -54,13 +55,8 @@ export default {
   }
 
   &__title {
-    margin-top: -0.35rem;
-    margin-bottom: -0.1rem;
-    $breakpoint-tablet: 768px;
-    @media (min-width: $breakpoint-tablet) {
-      margin-top: -1.25rem;
-      margin-bottom: -0.5rem;
-    }
+    margin-top: -0.25rem;
+    margin-bottom: -0.25rem;
   }
 
   &:hover {

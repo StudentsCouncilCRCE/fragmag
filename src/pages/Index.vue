@@ -41,21 +41,15 @@
         </p>
       </div>
       <br />
-      <br />
       <div class="pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
-        <ArticleCard
+        <ImageCard
           v-for="edge in $page.desks.edges"
           :key="edge.node.id"
-          :article="edge.node"
+          :item="edge.node"
         />
       </div>
       <div class="content-center text-center">
-        <g-link
-          class="rounded shadow-lg pl-10 pr-12 py-2 logo"
-          to="/editorials"
-        >
-          <strong class="logo__text"> Editorials &rarr; </strong>
-        </g-link>
+        <LinkCard :link="editorial" />
       </div>
     </div>
   </Layout>
@@ -78,12 +72,6 @@ query {
 </page-query>
 
 <style scoped lang="scss">
-.logo {
-  text-decoration: none;
-  color: var(--body-color) !important;
-  font-size: 1.5rem;
-  background-color: var(--bg-content-color);
-}
 .doodle {
   opacity: 0.75;
   display: flex;
@@ -183,11 +171,21 @@ query {
 </style>
 
 <script>
-import ArticleCard from "~/components/ArticleCard.vue";
+import ImageCard from "~/components/ImageCard.vue";
+import LinkCard from "~/components/LinkCard.vue";
 
 export default {
+  data() {
+    return {
+      editorial: {
+        title: "Editorial &rarr;",
+        path: "/editorials",
+      },
+    };
+  },
   components: {
-    ArticleCard,
+    ImageCard,
+    LinkCard,
   },
   metaInfo: {
     title: "Home",

@@ -3,6 +3,7 @@
     <header class="header">
       <div class="header__left">
         <Logo v-if="showLogo" />
+        <g-image width="50" v-if="!showLogo" src="~/favicon.png"></g-image>
       </div>
 
       <div class="header__right">
