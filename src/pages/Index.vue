@@ -52,8 +52,9 @@
         </div>
       </div>
       <br />
-      <div class="pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
+      <div class="w-100 pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
         <ImageCard
+          class="w-100"
           v-for="edge in $page.desks.edges"
           :key="edge.node.id"
           :item="edge.node"
@@ -62,7 +63,9 @@
       <div class="content-center text-center">
         <LinkCard :link="editorial" />
       </div>
-      <div class="pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div
+        class="w-100 pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4"
+      >
         <LinkCard
           v-for="episode in episodes"
           :key="episode.title"
