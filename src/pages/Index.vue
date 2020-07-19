@@ -34,27 +34,11 @@
           Catalyse the most influential factor for success, that is, self-esteem
           and see the magic that you create for your very own self! Believing
           that you can do it and deserve it, will help you to conquer the world!
-        </p>
-        <p>
-          Fr. CRCE has been a focal point in the development of a student's
-          personality. It has provided the students with an opportunity to have
-          an all-round development. It has created a platform for the students
-          to stimulate their talents/hobbies by participating in numerous
-          activities apart from academics. CRCE has given all the students an
-          excellent opportunity to catalyse them and to pass out not just as
-          Engineers but future entrepreneurs & CEO's.
-        </p>
-        <p>
-          With the theme for this year's edition of FragMag, we wish to convey a
-          message that whatever you do, do it to the best of your ability and
-          act fast upon it because the opportunity once lost may not be yours
-          soon. Time is not a factor; it's the only factor.
-        </p>
-        <p>
           Your aim should not be to participate but to secure a podium finish.
           Catalyse yourself See the difference. Make it happen.
         </p>
       </div>
+      <br />
       <br />
       <div class="pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
         <ArticleCard
@@ -64,7 +48,10 @@
         />
       </div>
       <div class="content-center text-center">
-        <g-link class="logo" to="/editorials">
+        <g-link
+          class="rounded shadow-lg pl-10 pr-12 py-2 logo"
+          to="/editorials"
+        >
           <strong class="logo__text"> Editorials &rarr; </strong>
         </g-link>
       </div>
@@ -92,7 +79,8 @@ query {
 .logo {
   text-decoration: none;
   color: var(--body-color) !important;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  background-color: var(--bg-content-color);
 }
 .doodle {
   opacity: 0.75;
