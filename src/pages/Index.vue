@@ -212,22 +212,22 @@ export default {
       episodes: [
         {
           title: "Over The Course",
-          number: "Ep. 1",
+          number: "Ep. 2",
           subtitle: "Coming on 22nd July",
         },
         {
           title: "Glimpses Of Time",
-          number: "Ep. 2",
+          number: "Ep. 3",
           subtitle: "Coming on 25th July",
         },
         {
           title: "Writings on the Wall",
-          number: "Ep. 3",
+          number: "Ep. 4",
           subtitle: "Coming on 28th July",
         },
         {
           title: "The New Normal",
-          number: "Ep. 4",
+          number: "Ep. 5",
           subtitle: "Coming on 1st August",
         },
       ],

@@ -48,6 +48,7 @@ export default {
   }
 
   &__title {
+    color: white;
     position: absolute;
     top: 50%;
     left: 50%;
