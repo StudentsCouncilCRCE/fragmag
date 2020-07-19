@@ -1,9 +1,13 @@
 ---
+index: 1
 title: Director's Address
 endpoint: directors-address
 published: true
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+editorial: false
+desk: true
+cover_image: ./images/father.webp
 canonical_url: false
+devnagri: false
 ---
 
 Dear Students,
@@ -18,4 +22,4 @@ Dear Students in these uncertain times, Covid-19 has disrupted the life for ever
 
 Wishing you all the very best.
 
-> Fr.Valerian D’Souza SFX
+> **Fr.Valerian D’Souza SFX**

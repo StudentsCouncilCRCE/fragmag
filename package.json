@@ -11,7 +11,8 @@
     "@gridsome/source-filesystem": "^0.6.0",
     "@gridsome/transformer-remark": "^0.3.0",
     "css-doodle": "^0.8.5",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-tailwindcss": "^3.0.1"
   },
   "devDependencies": {
     "node-sass": "^4.12.0",

@@ -8,4 +8,8 @@ export default function(Vue, { router, head, isClient }) {
       "https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap",
     rel: "stylesheet",
   });
+  head.link.push({
+    href: "https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap",
+    rel: "stylesheet",
+  });
 }

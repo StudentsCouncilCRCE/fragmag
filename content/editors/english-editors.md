@@ -1,14 +1,16 @@
 ---
+index: 4
 title: English Editorial
 endpoint: english-editorial
 published: true
-description:
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+editorial: true
+desk: true
+cover_image: ./images/english.webp
 canonical_url: false
+devnagri: false
 ---
 
 > Better to be a catalyst for change than a martyr for lies.
-
 
 Everyone has an ability to change. Change what surrounds oneself and change what is inside oneself. But it is always the crossroads of the greater question that we always find ourselves at. Whether we change for good or for bad? For whom is this change good and for who is it not? The average citizen holds in his holster the power of this decision making. It ranges from a graduate looking for the decision in regards to the career to pursue, to the farmer who decides the fate of a nation by pressing a button during the elections. Everyone has the power to create change, for Good, for Bad, for the Past and for the Future. But do we exercise this right to change or has it just stayed out be an old fashioned notion?
 

@@ -13,7 +13,11 @@
           :src="$page.desk.cover_image"
         />
       </div>
-      <div class="desk__content" v-html="$page.desk.content" />
+      <div
+        class="desk__content"
+        :class="$page.desk.devnagri && hindifont"
+        v-html="$page.desk.content"
+      />
     </div>
   </Layout>
 </template>
@@ -33,8 +37,9 @@ query Desk ($id: ID!) {
   desk: desk (id: $id) {
     title
     path
+    devnagri
     content
-    cover_image (width: 860, blur: 10)
+    cover_image (blur: 10)
   }
 }
 </page-query>
@@ -57,7 +62,7 @@ query Desk ($id: ID!) {
 
     img {
       width: 100%;
-      max-height: 20rem;
+      max-height: 25rem;
     }
 
     &:empty {
@@ -67,6 +72,8 @@ query Desk ($id: ID!) {
 
   &__content {
     text-align: justify;
+    font-family: "Noto Sans", sans-serif !important;
+    font-size: 1.1rem;
 
     img {
       width: 100%;

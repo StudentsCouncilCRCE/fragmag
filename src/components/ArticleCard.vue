@@ -9,8 +9,12 @@
       />
     </div>
     <div class="article-card__content">
-      <h2 class="article-card__title" v-html="article.title" />
-      <ArticleMeta class="article-card__meta" :article="article" />
+      <h4 class="article-card__title" v-html="article.title" />
+      <ArticleMeta
+        v-if="!article.desk"
+        class="article-card__meta"
+        :article="article"
+      />
       <g-link class="article-card__link" :to="article.path">Link</g-link>
     </div>
   </div>
@@ -50,17 +54,18 @@ export default {
   }
 
   &__title {
-    margin-top: 0;
+    margin-top: -0.35rem;
+    margin-bottom: -0.1rem;
+    $breakpoint-tablet: 768px;
+    @media (min-width: $breakpoint-tablet) {
+      margin-top: -1.25rem;
+      margin-bottom: -0.5rem;
+    }
   }
 
   &:hover {
     transform: translateY(-5px);
     box-shadow: 1px 10px 30px 0 rgba(0, 0, 0, 0.1);
-  }
-
-  &__tags {
-    z-index: 1;
-    position: relative;
   }
 
   &__link {

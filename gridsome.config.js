@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: "FragMag",
+  siteName: "FragMag 2020",
   siteDescription: "FragMag 2020 - Catalyse",
   templates: {
     Article: "/artices/:endpoint",
@@ -7,6 +7,12 @@ module.exports = {
   },
 
   plugins: [
+    {
+      use: "gridsome-plugin-tailwindcss",
+      options: {
+        tailwindConfig: "./tailwind.config.js",
+      },
+    },
     {
       use: "@gridsome/source-filesystem",
       options: {

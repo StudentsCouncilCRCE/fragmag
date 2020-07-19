@@ -1,9 +1,13 @@
 ---
+index: 5
 title: Hindi Editorial
 endpoint: hindi-editorial
 published: true
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+editorial: true
+desk: true
+cover_image: ./images/hindi.webp
 canonical_url: false
+devnagri: true
 ---
 
 जीवन संघर्ष से भरा हुआ है। कोई कितना ही प्रयत्न क्यों न करे पर अपने संघर्षों से भाग नहीं सकता। ज़िंदगी अपनी गती से चलती रहती है और हम आगे बढ़ते रहते है। निरंतर आगे बढ़ने की प्रक्रिया में बहुत सारी चीज़ें , लोग और कई अनेक तत्त्व हमें चलते रहने के लिए प्रेरित करते है। इन उत्प्रेरणाओ का मोल अधिक होता है, इन्हीं के कारण हमारा हौसला क़ायम रहता हैं।

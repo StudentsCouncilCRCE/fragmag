@@ -1,9 +1,13 @@
 ---
+index: 3
 title: From The Editor's Desk
 endpoint: from-the-editors-desk
 published: true
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+editorial: false
+desk: true
+cover_image: ./images/edsec.webp
 canonical_url: false
+devnagri: false
 ---
 
 > In the middle of difficulty lies, opportunity
@@ -30,4 +34,5 @@ I am presenting to you the FragMag Edition of 2020! Wishing you all have an insi
 
 Cheers to the New Normal!
 
-> Ruben Lobo - Editor In- Chief
+> **Ruben Lobo**<br>
+> Editor In-Chief

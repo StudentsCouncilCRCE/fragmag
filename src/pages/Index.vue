@@ -1,6 +1,6 @@
 <template>
   <Layout :showLogo="false">
-    <div class="container">
+    <div class="doodle">
       <css-doodle>
         :doodle { @grid: 500x1/ 40vmin; perspective: 12vmin; } @place-cell:
         center; @size: 40% 1px; will-change: transform, opacity;
@@ -55,12 +55,46 @@
           Catalyse yourself See the difference. Make it happen.
         </p>
       </div>
+      <br />
+      <div class="pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
+        <ArticleCard
+          v-for="edge in $page.desks.edges"
+          :key="edge.node.id"
+          :article="edge.node"
+        />
+      </div>
+      <div class="content-center text-center">
+        <g-link class="logo" to="/editorials">
+          <strong class="logo__text"> Editorials &rarr; </strong>
+        </g-link>
+      </div>
     </div>
   </Layout>
 </template>
 
+<page-query>
+query {
+  desks: allDesk(sortBy:"index", order: ASC, filter: { editorial: {eq: false}}) {
+    edges {
+      node {
+        id
+        title
+        desk
+        cover_image (width: 640, height: 260, blur: 10)
+        path
+      }
+    }
+  }
+}
+</page-query>
+
 <style scoped lang="scss">
-.container {
+.logo {
+  text-decoration: none;
+  color: var(--body-color) !important;
+  font-size: 1.2rem;
+}
+.doodle {
   opacity: 0.75;
   display: flex;
   z-index: -1000;
@@ -74,7 +108,8 @@
 .main-content {
   #fragmag {
     margin: 0;
-    padding: 0;
+    padding: 3rem 0;
+    line-height: 3rem;
     text-align: center;
     font-size: 3.5rem;
     font-weight: normal;
@@ -92,6 +127,9 @@
     @media (min-width: $breakpoint-tablet) {
       font-size: 8.5rem;
       letter-spacing: 2px;
+      padding: 7.5rem 0;
+      line-height: 7rem;
+      margin-left: -2.5rem;
     }
   }
 
@@ -155,7 +193,12 @@
 </style>
 
 <script>
+import ArticleCard from "~/components/ArticleCard.vue";
+
 export default {
+  components: {
+    ArticleCard,
+  },
   metaInfo: {
     title: "Home",
   },

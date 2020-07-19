@@ -3,7 +3,6 @@
     <span class="logo__text">
       &larr;
       {{ $static.metadata.siteName }}
-      <g-image width="32rem" src="~/favicon.png"></g-image>
     </span>
   </g-link>
 </template>

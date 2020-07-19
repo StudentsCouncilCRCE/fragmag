@@ -1,9 +1,13 @@
 ---
+index: 6
 title: Marathi Editorial
 endpoint: marathi-editorial
 published: true
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+editorial: true
+desk: true
+cover_image: ./images/marathi.webp
 canonical_url: false
+devnagri: true
 ---
 
 विज्ञानामधील रसायनशास्त्र हे निसर्गात सर्वत्र दिसते. रसायनशास्त्र अगदी मानवी शरीरापासून ते अंतराळात लागू होते. उत्प्रेरक (कॅटॅलीस्ट) ही रसायनशास्त्रातील एक संकल्पना - एखाद्या रासायनिक प्रक्रियेचा वेग वाढवणारा पदार्थ.

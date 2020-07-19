@@ -1,14 +1,16 @@
 ---
+index: 2
 title: Principals's Report
 endpoint: principals-report
 published: true
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+editorial: false
+desk: true
+cover_image: ./images/principal.webp
 canonical_url: false
+devnagri: false
 ---
 
 ## Annual Report 2019-20
-
-> Dr. Srija Unnikrishnan
 
 Fr. Conceicao Rodrigues College of Engineering is dedicated to its vision of 'Moulding Engineers who can build the Nation', with focus on keeping up with the technology trends and holistic development of students.
 
@@ -68,3 +70,5 @@ Our regular academic curriculum is complemented by a variety of Co-curricular an
 Many of our students are recipients of Government and various Trust Scholarships. Additionally, 7 students are receiving scholarships from Bluestar foundation, 8 students from Stulz CHSPL foundation and 2 first year girl students from Katalyst India.
 
 With a progressive mindset and continuous evolution, we hope to create new benchmarks in the field of engineering education.
+
+> **Dr. Srija Unnikrishnan**
