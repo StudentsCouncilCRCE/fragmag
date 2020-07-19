@@ -16,8 +16,7 @@
         </css-doodle>
       </div>
     </ClientOnly>
-    <h1 class="p-4">Editorial Team</h1>
-    <br />
+    <h1 class="p-1 text-center">Editorial Team</h1>
     <div>
       <div class="m-4 grid grid-cols-1 xl:grid-cols-3 gap-5">
         <ImageCard
