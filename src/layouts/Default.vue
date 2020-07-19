@@ -18,6 +18,17 @@
     <footer class="footer">
       <span class="footer__copyright"
         >Copyright &copy; {{ new Date().getFullYear() }} Students' Council CRCE
+        <br />
+        <a
+          href="https://instagram.com/frcrce_official?igshid=1xzzfigzk6x4l"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://www.youtube.com/channel/UCVXm63qDorgkAXRIEh7XLjA"
+          target="_blank"
+          ><i class="fa fa-youtube-play fa-2x p-2"></i
+        ></a>
       </span>
     </footer>
   </div>

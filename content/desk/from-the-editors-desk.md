@@ -24,7 +24,7 @@ I take this opportunity to thank Reverend Father Peter D’Souza, Reverend Fathe
 
 > Design is Intelligence made visible
 
-The wonderful designs you will see in this Magazine have been done by none other than Jeswin Thomas. I thank you from the bottom of my heart, Jeswin for all your efforts in making this year’s edition look attractive. How can I forget the entire Student’s Council who came up with their initiative towards a unique idea of digitally publishing this year’s edition. A Special thank you to our webmaster, Sakshi Ghadigaonkar for making a dedicated website for FragMag and Ryan Dsilva for mentoring her.
+The wonderful designs you will see in this Magazine have been done by none other than Jeswin Thomas. I thank you from the bottom of my heart, Jeswin for all your efforts in making this year’s edition look attractive. How can I forget the entire Student’s Council who came up with their initiative towards a unique idea of digitally publishing this year’s edition. A Special thank you to our webmaster, Sakshi Ghadigaonkar and our ex-Technical Secretary, Ryan Dsilva for making a dedicated website for FragMag!
 
 Lastly, to this person,who's always worked in silence and behind the screen. Yes, I am talking about Kevin Ruffin, the General Secretary of the Students’ Council and I consider myself as the luckiest Editorial Secretary because of the support I’ve always received from him. Thank you, Kevin for always having my back.
 
