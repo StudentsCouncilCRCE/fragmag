@@ -19,12 +19,12 @@ Fr. Conceicao Rodrigues College of Engineering is dedicated to its vision of 'Mo
 - Extension of NBA accreditation for Computer Engineering, Electronics Engineering and Production Engineering programs till June 2023.
 - Institute rankings in 2019 by reputed surveys:
   - Ranked 77th among the top private Engineering Institutes in the country by the Times Engineering Institute Ranking Survey.
-  - Ranked 15thamong the Private Engineering Institutions in the West Zone by the Week Engineering Institute Survey.
+  - Ranked 15th among the Private Engineering Institutions in the West Zone by the Week Engineering Institute Survey.
   - Ranked 5th among the Private Engineering Institutes of Maharashtra by Education World Higher Education Survey.
 
 ### At the Academic Front
 
-- New UG course in Mechanical Engineering with intake60.
+- New UG course in Mechanical Engineering with intake 60.
 - Course in Electronics and Computer Science Engineering in place of Electronics Engineering.
 - Merger of Information Technology course with Computer Engineering course.
 - Final year pass percentages in the May 2019 University Examination:
