@@ -34,6 +34,9 @@ export default {
     Logo,
     ToggleTheme,
   },
+  mounted() {
+    require("css-doodle");
+  },
 };
 </script>
 
