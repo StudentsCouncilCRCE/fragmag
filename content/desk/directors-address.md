@@ -22,4 +22,4 @@ Dear Students in these uncertain times, Covid-19 has disrupted the life for ever
 
 Wishing you all the very best.
 
-> **Fr.Valerian D’Souza SFX**
+> **Fr. Valerian D’Souza SFX**
