@@ -18,27 +18,38 @@
     </ClientOnly>
     <div class="main-content">
       <h1 id="fragmag">FRAGMAG</h1>
-      <div class="sub-content">
-        <h2>Catalyse</h2>
-        <blockquote style="text-align:left;">
-          Catalyse: Cause or Accelerate (a reaction) by acting as a catalyst.
-        </blockquote>
-        <br />
-        <p>
-          Welcome to a mercurial world backed by the latest technological
-          advancements. Today, the slow and steady cannot win the race, but the
-          faster and smarter one can. Just as a Catalyst that speeds up a
-          chemical reaction, we as individuals also need to catalyse ourselves
-          to achieve all that we desire.
-        </p>
-        <p>
-          Catalyse your aim & level up your game. Catalyse your life's mission.
-          Catalyse the most influential factor for success, that is, self-esteem
-          and see the magic that you create for your very own self! Believing
-          that you can do it and deserve it, will help you to conquer the world!
-          Your aim should not be to participate but to secure a podium finish.
-          Catalyse yourself See the difference. Make it happen.
-        </p>
+      <div class="flex flex-wrap sub-content">
+        <div class="w-full md:w-1/3 mb-4">
+          <g-image
+            class="fragmag-cover"
+            src="~/assets/images/fragmag.webp"
+          ></g-image>
+        </div>
+        <div class="w-full md:w-2/3 mb-4">
+          <h1 class="mt-2 text-4xl">Catalyse</h1>
+          <blockquote style="text-align:left;">
+            Catalyse: Cause or Accelerate (a reaction) by acting as a catalyst.
+          </blockquote>
+          <br />
+          <p>
+            Welcome to a mercurial world backed by the latest technological
+            advancements. Today, the slow and steady cannot win the race, but
+            the faster and smarter one can. Just as a Catalyst that speeds up a
+            chemical reaction, we as individuals also need to catalyse ourselves
+            to achieve all that we desire.
+          </p>
+          <p>
+            Catalyse your aim & level up your game. Catalyse your life's
+            mission. Catalyse the most influential factor for success, that is,
+            self-esteem and see the magic that you create for your very own
+            self! Believing that you can do it and deserve it, will help you to
+            conquer the world!
+          </p>
+          <p>
+            Your aim should not be to participate but to secure a podium finish.
+            Catalyse yourself See the difference. Make it happen.
+          </p>
+        </div>
       </div>
       <br />
       <div class="pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
@@ -50,6 +61,13 @@
       </div>
       <div class="content-center text-center">
         <LinkCard :link="editorial" />
+      </div>
+      <div class="pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <LinkCard
+          v-for="episode in episodes"
+          :key="episode.title"
+          :link="episode"
+        />
       </div>
     </div>
   </Layout>
@@ -83,6 +101,13 @@ query {
     margin: 5rem 28rem;
   }
 }
+
+.fragmag-cover {
+  margin-right: 2rem;
+  width: 100%;
+  max-width: 50vh;
+}
+
 .main-content {
   #fragmag {
     margin: 0;
@@ -103,6 +128,8 @@ query {
     animation: fadein 3s;
     $breakpoint-tablet: 768px;
     @media (min-width: $breakpoint-tablet) {
+      margin-top: 1.1rem;
+      margin-bottom: 13rem;
       font-size: 8.5rem;
       letter-spacing: 2px;
       padding: 7.5rem 0;
@@ -163,6 +190,7 @@ query {
 .sub-content {
   padding: 0 0.5rem;
   text-align: justify;
+  vertical-align: center;
   $breakpoint-tablet: 768px;
   @media (min-width: $breakpoint-tablet) {
     padding: 0 5rem;
@@ -181,6 +209,28 @@ export default {
         title: "Editorial &rarr;",
         path: "/editorials",
       },
+      episodes: [
+        {
+          title: "Over The Course",
+          number: "Ep. 1",
+          subtitle: "Coming on 22nd July",
+        },
+        {
+          title: "Glimpses Of Time",
+          number: "Ep. 2",
+          subtitle: "Coming on 25th July",
+        },
+        {
+          title: "Writings on the Wall",
+          number: "Ep. 3",
+          subtitle: "Coming on 28th July",
+        },
+        {
+          title: "The New Normal",
+          number: "Ep. 4",
+          subtitle: "Coming on 1st August",
+        },
+      ],
     };
   },
   components: {

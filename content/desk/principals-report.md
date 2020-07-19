@@ -1,6 +1,6 @@
 ---
 index: 2
-title: Principals's Report
+title: Principal's Report
 endpoint: principals-report
 published: true
 editorial: false

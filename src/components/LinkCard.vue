@@ -1,8 +1,16 @@
 <template>
   <div class="link-card content-box">
     <div class="link-card__content">
+      <div v-if="link.number" v-html="link.number" />
       <h4 class="link-card__title" v-html="link.title" />
-      <g-link class="link-card__link" :to="link.path">Link</g-link>
+      <div
+        v-if="link.subtitle"
+        class="link-card__subtitle"
+        v-html="link.subtitle"
+      />
+      <g-link v-if="link.path" class="link-card__link" :to="link.path"
+        >Link</g-link
+      >
     </div>
   </div>
 </template>
@@ -19,6 +27,16 @@ export default {
   position: relative;
 
   &__title {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    $breakpoint-tablet: 768px;
+    @media (min-width: $breakpoint-tablet) {
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  &__subtitle {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     $breakpoint-tablet: 768px;
