@@ -5,7 +5,6 @@ module.exports = {
     Article: "/artices/:endpoint",
     Desk: "/desk/:endpoint",
   },
-
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss",
