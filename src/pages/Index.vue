@@ -213,7 +213,8 @@ export default {
         {
           title: "Over The Course",
           number: "Ep. 2",
-          subtitle: "Coming on 22nd July",
+          //subtitle: "Coming on 22nd July",
+          path: "/episode-2",
         },
         {
           title: "Glimpses Of Time",
