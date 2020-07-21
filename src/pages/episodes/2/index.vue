@@ -17,10 +17,16 @@
       </div>
     </ClientOnly>
     <h1 class="p-1 text-center">Over The Course</h1>
+    <div class="pt-4 grid grid-cols-1 lg:grid-cols-4 gap-4">
+      <LinkCard :link="report"></LinkCard>
+      <LinkCard
+        v-for="episode in $page.episodes.edges"
+        :key="episode.node.id"
+        :link="episode.node"
+      />
+    </div>
   </Layout>
 </template>
-
-
 
 <style scoped lang="scss">
 .doodle {
@@ -31,7 +37,44 @@
   position: absolute;
   $breakpoint-tablet: 768px;
   @media (min-width: $breakpoint-tablet) {
-    margin: 5rem 28rem;
+    margin: 2.5rem 30rem;
   }
 }
 </style>
+
+<page-query>
+query {
+  episodes: allEpisode(filter: { number: { eq: 2 }}) {
+    edges {
+      node {
+        id
+        title
+        subtitle
+        path
+      }
+    }
+  }
+}
+</page-query>
+
+<script>
+import LinkCard from "~/components/LinkCard.vue";
+
+export default {
+  data() {
+    return {
+      report: {
+        title: "Reports",
+        subtitle: "Account of everything that happened this year",
+        path: "/episodes/2/reports",
+      },
+    };
+  },
+  components: {
+    LinkCard,
+  },
+  metaInfo: {
+    title: "Over The Course",
+  },
+};
+</script>

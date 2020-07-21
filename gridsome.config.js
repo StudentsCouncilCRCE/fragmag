@@ -4,6 +4,8 @@ module.exports = {
   templates: {
     Article: "/artices/:endpoint",
     Desk: "/desk/:endpoint",
+    Episode: "/episodes/:number/:endpoint",
+    Report: "/reports/:endpoint",
   },
   plugins: [
     {
@@ -31,6 +33,20 @@ module.exports = {
       options: {
         typeName: "Desk",
         path: "content/editors/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Episode",
+        path: "content/episodes/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Report",
+        path: "content/reports/*.md",
       },
     },
   ],
