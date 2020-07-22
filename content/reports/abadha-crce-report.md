@@ -1,6 +1,6 @@
 ---
 index: 10
-title: Abadha CRCE  
+title: Abadha CRCE
 cover_image:
 category: Technical Team
 author: Sharvil Khot
@@ -23,3 +23,16 @@ Team Abadha CRCE will always strive to build the best All-Terrain Vehicle by put
 
 > **Sharvil Khot**<br>
 > Team Captain
+
+<center>
+<a
+          href="https://instagram.com/teamabadha?igshid=soiyvlab7gdy"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://www.youtube.com/channel/UCQ2g2izBdI-Mxmyw-bQD8qQ"
+          target="_blank"
+          ><i class="fa fa-youtube-play fa-2x p-2"></i
+        ></a>
+</center>

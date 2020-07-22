@@ -37,3 +37,11 @@ We request all our Alumni to connect us on frcrce.almaconnect.com and help us gr
 > **Prof. Prachi Patil**<br>
 > Secretary
 > Fr.CRCE Alumni Association
+
+<center>
+        <a
+          href="http://frcrce.almaconnect.com/"
+          target="_blank"
+          ><i class="fa fa-link fa-2x p-2" aria-hidden="true"></i
+        ></a>
+</center>

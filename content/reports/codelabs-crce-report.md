@@ -21,3 +21,16 @@ Other than these events, Codelabs CRCE along with Mozilla Campus CRCE organized 
 
 > **Albin Tharayil**<br>
 > Vice Chairperson
+
+<center>
+<a
+          href="https://instagram.com/codelabscrce?igshid=18mx3dl9ghmrf"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://codelabscrce-ee0d5.firebaseapp.com/#index"
+          target="_blank"
+          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
+        ></a>
+</center>

@@ -1,6 +1,6 @@
 ---
 index: 28
-title: NSS CRCE 
+title: NSS CRCE
 category: Non-Technical Council
 author: Alden D’Souza
 endpoint: /nss-crce-report
@@ -20,3 +20,21 @@ On commencement of the Even Semester, A Nature Trail to Sanjay Gandhi National P
 
 > **Alden D’Souza**<br>
 > Chairperson NSS
+
+<center>
+<a
+          href="https://www.instagram.com/nss.crce"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://youtu.be/H13tH_JVbM0"
+          target="_blank"
+          ><i class="fa fa-youtube-play fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://www.linkedin.com/company/national-service-scheme-crce"
+          target="_blank"
+          ><i class="fa fa-linkedin fa-2x p-2" aria-hidden="true"></i
+        ></a>
+</center>

@@ -19,3 +19,16 @@ The Rotaract Club of FR. CRCE aims to Make a Difference by helping society in ev
 > **Nachiket Nisal**<br>
 > President
 > Rotaract Club of Fr. CRCE
+
+<center>
+<a
+          href="https://www.instagram.com/rotaract_crce/?hl=en"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://rotaract-crce.firebaseapp.com/"
+          target="_blank"
+          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
+        ></a>
+</center>

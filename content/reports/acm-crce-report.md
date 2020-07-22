@@ -1,6 +1,6 @@
 ---
 index: 16
-title: ACM CRCE 
+title: ACM CRCE
 category: Technical Council
 author: Chinmay Gawde
 endpoint: /acm-crce-report
@@ -16,3 +16,16 @@ The year 2020 started with the 'Smart India Hackathon' (Internal college level).
 
 > **Chinmay Gawde**<br>
 > ACM Secretary
+
+<center>
+<a
+          href="https://instagram.com/acm_frcrce?igshid=9qdvd7iobynh"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://frcrce.acm.org"
+          target="_blank"
+          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
+        ></>
+</center>

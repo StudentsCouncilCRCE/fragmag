@@ -37,10 +37,11 @@ IIC-FrCRCE is an Interface between MIC and Fr.CRCE to showcase various activitie
 17. SIH Internal Hackathon: in association with ACM to shortlist the teams which would be sent for Smart India Hackathon.
 18. Innovation Day Celebration: All the Councils of the college organized innovative activities, and top 3 innovative cum creative activities were given certificates.
 19. Idea Competition: in association with E-Cell where students are given the opportunity to pitch their idea in front of the jury.
+20. Experiences – Women in entrepreneurship: Celebration on women’s day with WIE
 
-We also plan future activities by the end of the year as mentioned below -
-
-Sessions on Innovations, Project Ideas and Trends that will change tomorrow, Planning of startup legal and ethical steps, Experiences by Women in entrepreneurship Incubation opportunity for Student-Faculty - Early Stage Entrepreneurs, Lean Start-up & Minimum Viable Product/Business-Boot camp Hangout with Successful Startups, Quiz/Case Study of a Startup, Demo Day – Exhibition Cum Mentorship Session for Student & faculty Startups-ideas
+We participated in Leadership Talk Series and 17 online sessions as an e-activity on
+various themes of Innovation, IPR and Entrepreneurship and Startup organized by IIC-MIC
+(21 st April-22 May 2020) during lockdown period.
 
 > **Prof. Swati Ringe**<br>
 > President

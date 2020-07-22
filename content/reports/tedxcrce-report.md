@@ -17,3 +17,21 @@ We as a community also had the opportunity to work with the Mumbai Roti Bank Org
 > **Meera Ghaskadvi**<br>
 > Co-organizer
 > TEDxCRCE
+
+<center>
+<a
+          href="https://instagram.com/tedxcrce?igshid=1h23m8y7p1j6s"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          href="https://www.youtube.com/user/TEDxTalks"
+          target="_blank"
+          ><i class="fa fa-youtube-play fa-2x p-2"></i
+        ></a>
+        <a
+          href="http://tedxcrce.com"
+          target="_blank"
+          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
+        ></a>
+</center>
