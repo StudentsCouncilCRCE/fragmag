@@ -2,7 +2,7 @@
 number: 2
 title: Achiever's Club
 cover_image:
-subtitle: Glimspe of the proud moments
+subtitle: Glimpse of the proud moments
 endpoint: /achievers-club
 center: true
 ---
