@@ -1,7 +1,7 @@
 ---
 index: 22
-title: IIIExCRCE CRCE Report
-category: IIIExCRCE CRCE
+title: IIIExCRCE CRCE
+category: Technical Council
 author: Khushi Mehta
 endpoint: /iiiexcrce-crce-report
 ---

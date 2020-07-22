@@ -1,7 +1,7 @@
 ---
 index: 19
-title: CSI Report
-category: Team CSI
+title: CSI
+category: Technical Council
 author: Sahaana Iyer
 endpoint: /csi-report
 ---

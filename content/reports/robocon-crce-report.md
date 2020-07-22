@@ -1,7 +1,7 @@
 ---
 index: 14
-title: Robocon CRCE  Report
-category: Team Robocon CRCE
+title: Robocon CRCE
+category: Technical Team
 author: Shantanu Parab
 endpoint: /robocon-crce-report
 ---

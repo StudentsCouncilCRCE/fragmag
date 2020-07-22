@@ -1,7 +1,7 @@
 ---
 index: 24
-title: SAE CRCE Report
-category: Team SAE CRCE
+title: SAE CRCE
+category: Technical Council
 author: Jay Patel
 endpoint: /sae-crce-report
 ---

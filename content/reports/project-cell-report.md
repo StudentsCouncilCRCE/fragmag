@@ -1,7 +1,7 @@
 ---
 index: 13
-title: Project Cell Report
-category: Project Cell
+title: Project Cell
+category: Technical Team
 author: Mohammed ahmed
 endpoint: /project-cell-report
 ---

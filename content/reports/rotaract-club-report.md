@@ -1,7 +1,7 @@
 ---
 index: 29
-title: Rotaract Club Of CRCE Report
-category: Rotaract Club
+title: Rotaract Club Of CRCE
+category: Non-Technical Council
 author: Nachiket Nisal
 endpoint: /rotaract-club-of-crce-report
 ---

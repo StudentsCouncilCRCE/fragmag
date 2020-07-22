@@ -1,7 +1,7 @@
 ---
 index: 26
-title: WIE CRCE Report
-category: WIE CRCE
+title: WIE CRCE
+category: Technical Council
 author: Prof. Sushma Nagdeote & Ms. Jagruti Bhanushali
 endpoint: /wie-crce-report
 ---

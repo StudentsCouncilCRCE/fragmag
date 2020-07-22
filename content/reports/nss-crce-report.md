@@ -1,7 +1,7 @@
 ---
 index: 28
-title: NSS CRCE Report
-category: NSS CRCE
+title: NSS CRCE 
+category: Non-Technical Council
 author: Alden D’Souza
 endpoint: /nss-crce-report
 ---

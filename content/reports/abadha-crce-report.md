@@ -1,8 +1,8 @@
 ---
 index: 10
-title: Abadha CRCE  Report
+title: Abadha CRCE  
 cover_image:
-category: Team Abadha CRCE
+category: Technical Team
 author: Sharvil Khot
 endpoint: /abadha-crce-report
 ---

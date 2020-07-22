@@ -1,7 +1,7 @@
 ---
 index: 21
-title: IEEE CRCE Report
-category: IEEE CRCE
+title: IEEE CRCE
+category: Technical Council
 author: Joel Francis Paul & Prashant Singh Rawat
 endpoint: /ieee-crce-report
 ---

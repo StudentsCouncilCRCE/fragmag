@@ -1,7 +1,7 @@
 ---
 index: 11
-title: CFR CRCE Report
-category: Team CFR CRCE
+title: CFR CRCE 
+category: Technical Team
 author: Pradnyesh Dound
 endpoint: /cfr-crce-report
 ---

@@ -1,7 +1,7 @@
 ---
 index: 15
-title: Vaayushastra Report
-category: Team Vaayushastra
+title: Vaayushastra 
+category: Technical Team
 author: Saumeel Gabhare
 endpoint: /vaayushastra-report
 ---

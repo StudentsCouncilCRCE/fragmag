@@ -1,7 +1,7 @@
 ---
 index: 6
-title: Alumni Report
-category: Fr.CRCE Alumni Association
+title: Alumni
+category: Special Report
 author: Prof.Prachi Patil
 endpoint: /alumni-report
 ---

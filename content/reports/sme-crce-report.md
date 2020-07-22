@@ -1,7 +1,7 @@
 ---
 index: 25
-title: SME CRCE Report
-category: Team SME CRCE
+title: SME CRCE
+category: Technical Council
 author: Dr. Vasim A. Shaikh
 endpoint: /sme-crce-report
 ---

@@ -1,7 +1,7 @@
 ---
 index: 12
-title: Mavericks UAS Report
-category: Team Mavericks UAS
+title: Mavericks UAS
+category: Technical Team
 author: Jason D'Costa
 endpoint: /mavericks-uas-report
 ---

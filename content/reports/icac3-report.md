@@ -1,7 +1,7 @@
 ---
 index: 7
-title: ICAC3 Report
-category: ICAC3 2019
+title: ICAC3
+category: Special Report
 author: Dr. Sapna Prabhu
 endpoint: /icac3-report
 ---

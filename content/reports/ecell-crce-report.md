@@ -1,7 +1,7 @@
 ---
 index: 27
-title: E-Cell CRCE Report
-category: E-Cell CRCE
+title: E-Cell CRCE
+category: Non-Technical Council
 author: Umayr Farooqui
 endpoint: /ecell-crce-report
 ---

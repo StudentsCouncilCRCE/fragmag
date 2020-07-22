@@ -1,7 +1,7 @@
 ---
 index: 30
-title: Tedx CRCE Report
-category: Tedx CRCE
+title: Tedx CRCE Repor
+category: Non-Technical Council
 author: Meera Ghaskadvi
 endpoint: /tedx-crce-report
 ---

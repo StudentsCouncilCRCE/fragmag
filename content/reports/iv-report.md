@@ -1,7 +1,7 @@
 ---
 index: 9
 title: IV Report
-category: Department of Electronics Engineering
+category: Special Report
 author: Prof.Jayen Modi
 endpoint: /iv-report
 ---

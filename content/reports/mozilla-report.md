@@ -1,7 +1,7 @@
 ---
 index: 23
-title: Mozilla Report
-category: Team Mozilla
+title: Mozilla
+category: Technical Council
 author: Rajesh Manjrekar
 endpoint: /mozilla-report
 ---

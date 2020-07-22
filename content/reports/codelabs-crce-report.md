@@ -1,7 +1,7 @@
 ---
 index: 18
-title: Codelabs CRCE Report
-category: Team Codelabs CRCE
+title: Codelabs CRCE
+category: Technical Council
 author: Albin Tharayil
 endpoint: /codelabs-crce-report
 ---
