@@ -20,13 +20,16 @@
       <h1 id="fragmag">FRAGMAG</h1>
       <div class="flex flex-wrap sub-content">
         <div class="w-full md:w-1/3 mb-4">
-          <g-image class="fragmag-cover" src="~/assets/images/fragmag.webp"></g-image>
+          <g-image
+            class="fragmag-cover"
+            src="~/assets/images/fragmag.webp"
+          ></g-image>
         </div>
         <div class="w-full md:w-2/3 mb-4">
           <h1 class="mt-2 text-4xl">Catalyse</h1>
-          <blockquote
-            style="text-align:left;"
-          >Catalyse: Cause or Accelerate (a reaction) by acting as a catalyst.</blockquote>
+          <blockquote style="text-align:left;">
+            Catalyse: Cause or Accelerate (a reaction) by acting as a catalyst.
+          </blockquote>
           <br />
           <p>
             Welcome to a mercurial world backed by the latest technological
@@ -50,13 +53,21 @@
       </div>
       <br />
       <div class="pt-4 grid grid-cols-1 xl:grid-cols-3 gap-4">
-        <ImageCard v-for="edge in $page.desks.edges" :key="edge.node.id" :item="edge.node" />
+        <ImageCard
+          v-for="edge in $page.desks.edges"
+          :key="edge.node.id"
+          :item="edge.node"
+        />
       </div>
-      <div class="content-center text-center">
+      <div class="content-center text-center editorial">
         <LinkCard :link="editorial" />
       </div>
       <div class="pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        <LinkCard v-for="episode in episodes" :key="episode.title" :link="episode" />
+        <LinkCard
+          v-for="episode in episodes"
+          :key="episode.title"
+          :link="episode"
+        />
       </div>
     </div>
   </Layout>
@@ -95,6 +106,10 @@ query {
   margin-right: 2rem;
   width: 100%;
   max-width: 50vh;
+}
+
+.editorial {
+  margin: 0 auto !important;
 }
 
 .main-content {
@@ -196,39 +211,40 @@ export default {
     return {
       editorial: {
         title: "Editorial &rarr;",
-        path: "/editorials"
+        path: "/editorials",
       },
       episodes: [
         {
           title: "Over The Course",
           number: "Ep. 2",
-          subtitle: "Reports,Alumni Interview,Achiever's Club and Hall Of Fame",
-          path: "/episodes/2"
+          subtitle:
+            "Reports, Alumni Interview, Achiever's Club and Hall Of Fame",
+          path: "/episodes/2",
         },
         {
           title: "Glimpses Of Time",
           number: "Ep. 3",
-          subtitle: "Coming on 25th July"
+          subtitle: "Coming on 25th July",
         },
         {
           title: "Writings on the Wall",
           number: "Ep. 4",
-          subtitle: "Coming on 28th July"
+          subtitle: "Coming on 28th July",
         },
         {
           title: "The New Normal",
           number: "Ep. 5",
-          subtitle: "Coming on 1st August"
-        }
-      ]
+          subtitle: "Coming on 1st August",
+        },
+      ],
     };
   },
   components: {
     ImageCard,
-    LinkCard
+    LinkCard,
   },
   metaInfo: {
-    title: "Home"
-  }
+    title: "Home",
+  },
 };
 </script>

@@ -25,6 +25,7 @@ export default {
 .link-card {
   margin-bottom: var(--space);
   position: relative;
+  margin: 0 auto;
 
   &__title {
     margin-top: 0.5rem;

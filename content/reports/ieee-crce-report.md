@@ -12,3 +12,6 @@ With the council formation in the month of July 2019, IEEE Council was formed un
 
 > **Joel Francis Paul & Prashant Singh Rawat**<br>
 > (Documentation Head) (Vice-Chairperson)
+
+<div style="float:left;">Joel<br>Post</div>
+<div style="float:right;">Joel<br>Post</div>
