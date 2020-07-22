@@ -5,12 +5,11 @@ cover_image:
 category: Technical Council
 author: Joel Francis Paul & Prashant Singh Rawat
 endpoint: /ieee-crce
-instagram: https://instagram.com/iiiexcrce?igshid=1klrmxnv8kte7
-facebook: https://www.facebook.com/IIIExCRCE/
+instagram: 
+facebook: 
 youtube:
 twitter:
-linkedin: https://www.linkedin.com/company/14423096
-whatsapp:
+linkedin: 
 website:
 connect:
 ---
