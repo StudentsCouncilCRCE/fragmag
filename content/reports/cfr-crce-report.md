@@ -4,6 +4,14 @@ title: CFR CRCE
 category: Technical Team
 author: Pradnyesh Dound
 endpoint: /cfr-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 Team CRCE Formula Racing is a formula student team of 35 students from Fr. Conceicao Rodrigues College of Engineering, Bandra which builds a Formula Student (FS) race car and participates in various Formula Student events held across India.

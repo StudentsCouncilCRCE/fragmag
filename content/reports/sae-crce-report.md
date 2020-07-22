@@ -4,6 +4,14 @@ title: SAE CRCE
 category: Technical Council
 author: Jay Patel
 endpoint: /sae-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 Society of Automobile Engineers(SAE) International is a global association of more than 128,000 engineers and related technical experts in the aerospace, automotive and commercial-vehicle industries. Their core competencies are life-long learning and voluntary consensus standards development. SAEINDIA is a strategic alliance partner of SAE International registered in India as an Indian non-profit engineering and scientific society dedicated to the advancement of the mobility industry in India.

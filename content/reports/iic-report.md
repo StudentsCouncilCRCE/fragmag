@@ -4,6 +4,14 @@ title: IIC2.0-Fr.CRCE
 category: Special Report
 author: Prof.Swati Ringe
 endpoint: /iic-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The Ministry of Human Resource Development (MHRD), Govt. of India has established ‘MHRD’s Innovation Cell (MIC)’ at AICTE to systematically foster the culture of Innovation amongst all Higher Education Institutions (HEIs). MIC has envisioned encouraging creation of ‘Institution’s Innovation Council (IICs)’ across selected HEIs. The primary mandate of IIC is to encourage, inspire and nurture young students by supporting them to work with new ideas and transform them into prototypes while they are in formative years.

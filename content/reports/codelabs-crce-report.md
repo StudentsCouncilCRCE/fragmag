@@ -4,6 +4,14 @@ title: Codelabs CRCE
 category: Technical Council
 author: Albin Tharayil
 endpoint: /codelabs-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 Codelabs CRCE is a council powered by the well-known global organization HackerEarth. It aims at promoting the interdisciplinary nature of coding amongst students, irrespective of their fields. It organizes various technical and non-technical events for the same on an intra-college level. The council has provided students with multiple courses, free of cost, which would help them in their skills. Following are the events that were organized by the council:

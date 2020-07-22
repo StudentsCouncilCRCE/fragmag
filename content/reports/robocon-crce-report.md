@@ -4,6 +4,14 @@ title: Robocon CRCE
 category: Technical Team
 author: Shantanu Parab
 endpoint: /robocon-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 During the preparation of college events like Euphoria, Athlos, Synergy or even during the days of exams and submissions, watching Agnelites run along the corridors in Fr. Crce is not a rare sight. But one room in the premises is left out of this chaos, be it a holiday or any other event day Lab no "709", the ROBOCON Lab is always seen buckling down, tinkering with the tools. We are driven by an acute zest for learning technological advancements and happenings in the modern world and endeavour in applying theoretical learning in realistic projects.

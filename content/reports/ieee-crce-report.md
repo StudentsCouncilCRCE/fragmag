@@ -4,6 +4,14 @@ title: IEEE CRCE
 category: Technical Council
 author: Joel Francis Paul & Prashant Singh Rawat
 endpoint: /ieee-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 IEEE also known as Institute of Electrical and Electronics Engineers which is the world’s leading professional organization dedicated to promoting engineers and scientists. The mission of IEEE is to inspire, engage, encourage, and empower engineers and scientists worldwide. IEEE-CRCE aims to inculcate the importance and advancements related to technology and social issues and solve them with a firm technical background for the benefit of humanity. Helping students adapt to technological aspects of the modern world and being in power with any other professional is our objective.

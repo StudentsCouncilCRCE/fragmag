@@ -1,13 +1,20 @@
 ---
 index: 3
-title: Technical
+title: Technical Report
 category: Students' Council
 author: Pranay Bagrecha
 endpoint: /technical-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
-> “Technology works best when it brings people together.”<br>
-> social distancing, please.
+> “Technology works best when it brings people together.”<br>social distancing, please.
 
 On 31st August 2019, the first major tech event, “Synergy Hackathon” was held. Hackathon’s give Student developers an opportunity to come together, work collaboratively, tackle problems, and compete for fame and glory. The primary goal of this event was to raise awareness of technical talent and foster a competitive, yet cooperative, and congenial culture for talented individuals. It also allowed participants to connect with Industry personnel’s, faculty mentors, and most importantly, with each other.
 
@@ -25,7 +32,9 @@ Crescendo this year, like always, was to live up to its name and draw curtains t
 
 Update: Crescendo 2020 was rescinded to contain the COVID-19 outbreak.
 
-Absolutely devastated to see our technical fest not getting executed. The Council and Crescendo Team had worked really hard to put everything in order. Nevertheless, I see my juniors fervently learning and implementing technologies, that is my marker for knowing we are headed in the right direction. That’s my cue to hand over the baton.
+Absolutely gutted to see our technical fest not getting executed. The Council and Crescendo Team had worked really hard to put everything in order. Nevertheless, I see my juniors fervently learning and implementing technologies, that is my marker for knowing we are headed in the right direction. That’s my cue to hand over the baton.
 
-> Signing off,<br> > **Pranay Bagrecha**<br>
-> (Technical Secretary)
+Signing off,<br>
+
+> **Pranay Bagrecha**<br>
+> Technical Secretary

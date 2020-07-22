@@ -4,6 +4,14 @@ title: ICAC3
 category: Special Report
 author: Dr. Sapna Prabhu
 endpoint: /icac3-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The International Conference in Computing, Communication and Control (ICAC3) is a Biennial Conference organized by Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai, India. The Sixth Edition of the Conference was conducted on December 20-21,2019. The previous five editions of the conference were organized in January 2009(In cooperation with Association for Computing Machinery (ACM), January 2011 (Springer), January 2013 (Springer), April 2015 (published in Procedia Computer Science and uploaded on Science Direct) and December 2017(IEEE) respectively. ICAC3 is a multidisciplinary conference whose primary goal is to promote research and development activities in Computing, Communication and Control in India and the rest of the world. The conference also aims to offer a collaborative platform for the people in Academics, Research and Industry to address emerging issues and solutions in the above-mentioned areas.Around 160 papers were received, of which 88 papers were selected and presented at ICAC3-2019. The papers spanned from areas like Artificial Intelligence and Machine learning to Control systems. All the accepted and presented papers will be published in the IEEE Xplore Digital Library.

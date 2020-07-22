@@ -4,6 +4,14 @@ title: IV
 category: Special Report
 author: Prof.Jayen Modi
 endpoint: /iv-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The much-awaited annual industrial visit of Fr. Conceicao Rodrigues College of Engineering, Mumbai took place with a centralized conglomerate of staff & students to Chandigarh, Shimla & Manali from the 27th December 2019 to 4th January 2020 with proposed industrial visit sites scheduled at Rajiv Gandhi Information Technology (IT) Park at Chandigarh, Micro Turners Group at Baddi, (Himachal Pradesh) & Jay Bee Transformers at Panchkula (Haryana). The industrial visit was organized by the technical councils of the college viz. IEEE-WIE, SAE, ACM & CSI who handled every detail. Right from the planning to execution. Leading the group were students Ricky Stanley of BE (Electronics Engineering), Akshay Dixit of TE (Production Engineering) & Sahil Gupta of TE (Computer Engineering). The complete arrangement of the tour was outsourced by the Students' council to Mr Nitish Parab of 'Around the Globe (ATG)' holidays who accompanied the group along with four of his associates.

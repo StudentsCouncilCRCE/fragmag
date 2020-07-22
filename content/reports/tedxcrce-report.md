@@ -4,6 +4,14 @@ title: TedxCRCE
 category: Non-Technical Council
 author: Meera Ghaskadvi
 endpoint: /tedxcrce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 TEDxCRCE believes that many new ideas find resemblances with similar concepts working well for different areas in the circle of development. On the 7th of October 2019, TEDxCRCE hosted its ‘Salon Event’ in the college. Speakers from diverse backgrounds came under one roof and spoke on ideas that hold the potential of bringing about a significant change, sharing the stage with a single mission of “Ideas Worth Spreading". The admirable personalities were Mr Jigar Rajpopat (self-taught drummer/percussionist),Mr Vinod More (speed artist and painter), Mrs Suchitra Pillai (actress and an alumnus of our college) and Mrs Sujata Deshmukh (HR expert). The event also had a segment called "Give Your Own TEDx Talk" where students from our college shared their views on various topics and gained an experience of delivering a real TEDx talk. Anish Dias from BE IT ,Chyankk Kumar from TE Electronics and Pranay Bagrecha from TE Computers spoke about their journey.

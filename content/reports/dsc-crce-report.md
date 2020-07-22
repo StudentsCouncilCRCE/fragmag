@@ -4,6 +4,14 @@ title: DSC CRCE
 category: Technical Council
 author: Chyankk Kumar
 endpoint: /dsc-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 About DSC CRCE

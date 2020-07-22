@@ -4,6 +4,14 @@ title: ACM CRCE
 category: Technical Council
 author: Chinmay Gawde
 endpoint: /acm-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The ACM Chapter of Fr. CRCE is known for organizing and conducting successful workshops and seminars related to Information Technology; it has greatly contributed to increasing knowledge of students and keeping them updated about new technologies in the market. The first event of ACM for the year 2019-2020 was the 'Resume Building Workshop' for students from TE, where 69 students attended the session. The speaker was Mr. Sojan Chandy, the chairperson of the ACM council. Next, we organized a workshop on 'GitHub' as we knew how important it is to understand the necessary steps required to contribute to open-source projects on GitHub and in completing group projects.

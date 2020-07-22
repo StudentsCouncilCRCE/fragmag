@@ -4,6 +4,14 @@ title: Vaayushastra
 category: Technical Team
 author: Saumeel Gabhare
 endpoint: /vaayushastra-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 Team Vaayushastra is a premier Aero Design and Modelling team that has practical experience in the design and fabrication of Fixed Wing Unmanned Aerial Vehicles. Team Vaayushastra was formed in 2012 to represent Fr. Conceicao Rodrigues College of Engineering in SAE Aero Design Competitions. The team is composed entirely of college undergraduates with aptitude and interests helpful for the challenge. The members of the team are recruited through a progression of interviews and aptitude tests to check their technical calibre and ability to co-operate as a team. The team then proceeds to conceptualize, design and fabricate different aspects of UAVs to contend in American skies.

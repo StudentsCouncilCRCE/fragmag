@@ -4,6 +4,14 @@ title: IIIExCRCE CRCE
 category: Technical Council
 author: Khushi Mehta
 endpoint: /iiiexcrce-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The Indian Institution of Industrial Engineering (IIIE) is a National Council founded in 1957 as a non-profit organisation and a Registered Society for propagating the profession of Industrial Engineering in India and is a Registered Public Trust under the Bombay Public Trust Act, 1950. It is dedicated to the advancement of Industrial Engineering Education and practice and to the application of such scientific knowledge to assist in the management of all endeavors. The Institution has Thirty-Four Chapters established all over India. The Government of India recognizes the Graduateship Examination conducted by the Institution as equivalent to a Bachelor's Degree in Industrial Engineering. The IIIE has Instituted many honors and awards for various achievements and outstanding contribution to the IE Profession.

@@ -4,6 +4,14 @@ title: SME CRCE
 category: Technical Council
 author: Dr. Vasim A. Shaikh
 endpoint: /sme-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 SME (Society of Manufacturing Engineers) is a group of students and faculty who share a collaborative vision of an inspired, educated and prosperous manufacturing community. At the SME council, our aim, objective and mission are to try our best to promote manufacturing technology and develop the skills of our members, to advance manufacturing and attract future generations.

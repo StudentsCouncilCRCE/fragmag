@@ -4,6 +4,14 @@ title: WIE CRCE
 category: Technical Council
 author: Prof. Sushma Nagdeote & Ms. Jagruti Bhanushali
 endpoint: /wie-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 WIE-CRCE is an affinity group of IEEE also known as IEEE Women in Engineering (WIE) which is the world’s leading professional organization dedicated to promoting women engineers and scientists, and inspiring girls to follow their academic interests in a career in engineering. The mission of WIE is to inspire, engage, encourage, and empower IEEE women worldwide. WIE-CRCE aims to teach the importance and advancements related to technology and social issues to women to make them whole as an individual with a firm technical background for the benefit of humanity. Helping students adapt to technological aspects of the modern world and being in power with any other professional is our objective.

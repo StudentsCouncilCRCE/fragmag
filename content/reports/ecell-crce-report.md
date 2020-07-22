@@ -4,6 +4,14 @@ title: E-Cell CRCE
 category: Non-Technical Council
 author: Umayr Farooqui
 endpoint: /ecell-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 > Entrepreneur is someone who has a vision for something and a desire to create.”

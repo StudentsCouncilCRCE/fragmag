@@ -5,11 +5,9 @@ subtitle: Glimspe of the proud moments
 endpoint: /achievers-club
 ---
 
-> 1. Institute Innovation Council (IIC-FrCRCE)
->    Ranked 5th out of 159 colleges in the western region
+1. Institute Innovation Council (IIC-FrCRCE) ranked 5th out of 159 colleges in the western region
 
-> 2. Team Abadha:<br>
->    All India Rank 5, out of 82 teams, at SAE BAJA 2020, held at Chandigarh and brought home the Winning Trophy for the “Marketing Presentation Event”
+2. Team Abadha - All India Rank 5, out of 82 teams, at SAE BAJA 2020, held at Chandigarh and brought home the Winning Trophy for the “Marketing Presentation Event”
 
 > 3. Team CRCE Formula Racing:<br>
 >    Secured an overall rank of 25 amongst 90 participating teams in the Formula Bharat 2020 held at the Kari Motor speedway, Coimbatore.

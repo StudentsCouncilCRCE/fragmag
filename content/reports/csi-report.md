@@ -4,6 +4,14 @@ title: CSI
 category: Technical Council
 author: Sahaana Iyer
 endpoint: /csi-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 Computer Society of India (CSI), CRCE is a council that works at its best for the students to have an all-round development by taking part in the numerous activities planned all around the year while simultaneously keeping up with the trends as per industry standards. The council plans fun and interactive events throughout the year for its members to ensure that the First and SecondYear students are provided with a firm footing in the technical domain.

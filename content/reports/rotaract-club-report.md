@@ -4,6 +4,14 @@ title: Rotaract Club Of CRCE
 category: Non-Technical Council
 author: Nachiket Nisal
 endpoint: /rotaract-club-of-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The Rotaract Club has been an integral part of Fr.CRCE. This year our club was associated with two NGOs: "BIGGER Than Life" that works towards the education of underprivileged children and women empowerment and "The Swapna Vana Foundation" which works for the cause of reforestation. We work along the motto "Service above Self".

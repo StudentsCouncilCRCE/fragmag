@@ -4,6 +4,14 @@ title: Project Cell
 category: Technical Team
 author: Mohammed ahmed
 endpoint: /project-cell-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 Established in 2014, PROJECT CELL is an endeavour to promote innovative thinking amidst young minds. We work towards accomplishing tasks that could be gradually developed on a large scale and solve many social problems that exist today. At Project Cell, we tread towards learning new concepts, techniques and gaining practical experiences on implementation of creative ideas out. The main goal of the Cell is to learn new technologies while developing new projects. This year, the team actively participated and conducted the following activities:

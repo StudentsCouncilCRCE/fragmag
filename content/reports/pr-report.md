@@ -4,6 +4,14 @@ title: Public Relations
 category: Students' Council
 author: Rozebud Gonsalves
 endpoint: /pr-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 When the year started, I was told by one of my seniors that my job would never go the way it has to. I will always have last-minute glitches, participants and teams backing out at the last minute and yet, I had to keep the show going.

@@ -4,6 +4,14 @@ title: NSS CRCE
 category: Non-Technical Council
 author: Alden D’Souza
 endpoint: /nss-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 > “The happiest people I know, are those

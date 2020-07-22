@@ -5,6 +5,14 @@ cover_image:
 category: Technical Team
 author: Sharvil Khot
 endpoint: /abadha-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 The name, Abadha, literally translating to “unbound”, embodies the spirit of the team and its creation. Team Abadha builds a One-Manned All-Terrain Vehicle which is capable of keeping its ground in the roughest of terrain and the most challenging conditions, truly doing justice to its name. Each and every bit of the vehicle is designed, analysed, manufactured and tested on performance-based criteria by the engineering students themselves. The buggy built can be viewed as the closest approximation as well as an extreme adaptation of the actual automobile model in use currently.

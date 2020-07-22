@@ -4,6 +4,14 @@ title: ASME CRCE
 category: Technical Council
 author: Prof. Deepika Singh
 endpoint: /asme-crce-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 ASME (American Society of Mechanical Engineers) CRCE is a student’s chapter that enables collaboration, knowledge sharing, career enrichment and skills development across all engineering disciplines. ASME council organizes several events around the year. During Crescendo 2019, ASME organized two events; SUSPENSION BRIDGE and TECHNICAL QUIZ UP.

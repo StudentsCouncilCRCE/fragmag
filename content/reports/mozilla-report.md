@@ -4,6 +4,14 @@ title: Mozilla
 category: Technical Council
 author: Rajesh Manjrekar
 endpoint: /mozilla-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 We are a council that promotes the usage of open source technology. The main aim is to ensure that the internet is free and accessible to all. The club organizes various technical and non-technical events throughout the year at an intra-college level. The council began the year with a membership drive. The aim of this drive was to get students to be a part of the council. Owing to it, we managed to get 58 students from the first, second and third years.

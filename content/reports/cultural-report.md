@@ -4,6 +4,14 @@ title: Cultural
 category: Students' Council
 author: Riya Gupta
 endpoint: /cultural-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 > "Teamwork is the ability to work together towards a common vision, the ability to direct individual accomplishments towards organizational objectives. It is the fuel that allows common people to attain uncommon results."

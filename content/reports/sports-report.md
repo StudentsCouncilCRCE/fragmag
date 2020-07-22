@@ -4,6 +4,14 @@ title: Sports
 category: Students' Council
 author: Surya Pratap Shahi & Simran D'souza
 endpoint: /sports-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 > Talent wins games, but teamwork and intelligence win championships.

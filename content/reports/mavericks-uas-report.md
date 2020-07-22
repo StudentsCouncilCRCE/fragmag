@@ -4,6 +4,14 @@ title: Mavericks UAS
 category: Technical Team
 author: Jason D'Costa
 endpoint: /mavericks-uas-report
+instagram:
+facebook:
+youtube:
+twitter:
+linkedin:
+whatsapp:
+website:
+connect:
 ---
 
 MavericksUAS was established to push the envelope of technological prowess. It is testimony to what a couple of engineering students can achieve with nothing much but a will to achieve success in fields which are beyond the scope of the engineering curriculum. We strive to innovate in the areas of unmanned flight systems and automation. We validate our efforts by participating in competitions which test our capabilities.
