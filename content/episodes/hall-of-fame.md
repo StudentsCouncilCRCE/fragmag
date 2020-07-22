@@ -1,6 +1,7 @@
 ---
 number: 2
 title: Hall Of Fame
+cover_image:
 subtitle: Our Academic Maestros
 endpoint: /hall-of-fame
 ---

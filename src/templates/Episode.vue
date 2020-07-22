@@ -33,6 +33,7 @@ query episode ($id: ID!) {
   episode: episode (id: $id) {
     title
     subtitle
+    cover_image (blur: 10)
     path
     content
   }
