@@ -26,6 +26,7 @@ export default {
   margin-bottom: var(--space);
   position: relative;
   margin: 0 auto;
+  width: 100%;
 
   &__title {
     margin-top: 0.5rem;
