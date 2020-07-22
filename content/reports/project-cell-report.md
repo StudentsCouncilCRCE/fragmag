@@ -5,13 +5,13 @@ cover_image:
 category: Technical Team
 author: Mohammed ahmed
 endpoint: /project-cell
-instagram: 
+instagram: https://www.instagram.com/project_cell_crce/?hl=en
 facebook: 
 youtube:
 twitter:
-linkedin: 
+linkedin: https://www.linkedin.com/company/projectcellcrce
 whatsapp:
-website: 
+website: http://projectcell.pythonanywhere.com/
 connect:
 ---
 
