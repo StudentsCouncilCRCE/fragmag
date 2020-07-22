@@ -2,26 +2,17 @@
   <div class="report-card content-box">
     <div class="report-card__content">
       <h4 class="report-card__title" v-html="report.title" />
-      <span
-        v-if="report.category"
-        class="report-card__subtitle"
-        v-html="report.category"
-      />
-      <span
-        v-if="report.author"
-        class="report-card__subtitle"
-        v-html="report.author"
-      />
-      <g-link v-if="report.path" class="report-card__link" :to="report.path"
-        >report</g-link
-      >
+      <span v-if="report.category" class="report-card__subtitle" v-html="report.category" />
+      <br />
+      <span v-if="report.author" class="report-card__subtitle" v-html="report.author" />
+      <g-link v-if="report.path" class="report-card__link" :to="report.path">report</g-link>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  props: ["report"],
+  props: ["report"]
 };
 </script>
 

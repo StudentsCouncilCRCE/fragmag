@@ -9,6 +9,7 @@ endpoint: /hall-of-fame
 table {
   border-collapse: collapse;
   width: 100%;
+  display:block;
 }
 
 th, td {
