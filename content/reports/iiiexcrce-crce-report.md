@@ -5,11 +5,11 @@ cover_image:
 category: Technical Council
 author: Khushi Mehta
 endpoint: /iiiexcrce-crce
-instagram:
-facebook:
+instagram: https://instagram.com/iiiexcrce?igshid=1klrmxnv8kte7
+facebook: https://www.facebook.com/IIIExCRCE/
 youtube:
 twitter:
-linkedin:
+linkedin: https://www.linkedin.com/company/14423096
 whatsapp:
 website:
 connect:
