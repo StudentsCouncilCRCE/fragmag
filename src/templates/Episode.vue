@@ -13,7 +13,11 @@
           :src="$page.episode.cover_image"
         />
       </div>
-      <div class="episode__content" v-html="$page.episode.content" />
+      <div
+        :class="$page.episode.center && 'centeralign'"
+        class="episode__content"
+        v-html="$page.episode.content"
+      />
     </div>
   </Layout>
 </template>
@@ -34,6 +38,7 @@ query episode ($id: ID!) {
     title
     subtitle
     cover_image (blur: 10)
+    center
     path
     content
   }
@@ -41,6 +46,10 @@ query episode ($id: ID!) {
 </page-query>
 
 <style lang="scss">
+.centeralign {
+  text-align: center !important;
+}
+
 .episode-title {
   padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
   text-align: center;

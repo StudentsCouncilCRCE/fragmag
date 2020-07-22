@@ -4,6 +4,7 @@ title: Alumni Interview
 cover_image: ./images/alumni.webp
 subtitle: Alumnus sharing valuable experience
 endpoint: /alumni
+center: false
 ---
 
 #### An Interview with Mr. Paresh Shetty
