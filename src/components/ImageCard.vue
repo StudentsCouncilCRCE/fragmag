@@ -13,12 +13,7 @@
 </template>
 
 <script>
-import ArticleMeta from "~/components/ArticleMeta";
-
 export default {
-  components: {
-    ArticleMeta,
-  },
   props: ["item"],
 };
 </script>

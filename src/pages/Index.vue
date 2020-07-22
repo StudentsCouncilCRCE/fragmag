@@ -60,7 +60,7 @@
           :item="edge.node"
         />
       </div>
-      <div class="content-center text-center">
+      <div class="content-center text-center editorial">
         <LinkCard :link="editorial" />
       </div>
       <div
@@ -109,6 +109,10 @@ query {
   margin-right: 2rem;
   width: 100%;
   max-width: 50vh;
+}
+
+.editorial {
+  margin: 0 auto !important;
 }
 
 .main-content {
@@ -216,7 +220,9 @@ export default {
         {
           title: "Over The Course",
           number: "Ep. 2",
-          subtitle: "Coming on 22nd July",
+          subtitle:
+            "Reports, Alumni Interview, Achiever's Club and Hall Of Fame",
+          path: "/episodes/2",
         },
         {
           title: "Glimpses Of Time",
