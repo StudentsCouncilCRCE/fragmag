@@ -2,6 +2,7 @@
 index: 14
 title: Robocon CRCE
 category: Technical Team
+cover_image:
 author: Shantanu Parab
 endpoint: /robocon-crce
 instagram: https://instagram.com/robocon.crce?igshid=ad22lnzemr0a

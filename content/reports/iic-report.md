@@ -1,6 +1,7 @@
 ---
 index: 8
-title: IIC2.0-Fr.CRCE
+title: IIC 2.0
+cover_image: ./images/iic.webp
 category: Special Report
 author: Prof.Swati Ringe
 endpoint: /iic

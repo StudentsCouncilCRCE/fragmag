@@ -2,6 +2,7 @@
 index: 15
 title: Vaayushastra
 category: Technical Team
+cover_image:
 author: Saumeel Gabhare
 endpoint: /vaayushastra
 instagram: https://www.instagram.com/teamvaayushastra/

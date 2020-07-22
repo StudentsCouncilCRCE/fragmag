@@ -1,6 +1,7 @@
 ---
 index: 19
 title: CSI
+cover_image:
 category: Technical Council
 author: Sahaana Iyer
 endpoint: /csi

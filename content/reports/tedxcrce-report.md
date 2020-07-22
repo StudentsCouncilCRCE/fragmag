@@ -1,7 +1,8 @@
 ---
 index: 30
-title: TedxCRCE
+title: TEDxCRCE
 category: Non-Technical Council
+cover_image:
 author: Meera Ghaskadvi
 endpoint: /tedxcrce
 instagram: https://instagram.com/tedxcrce?igshid=1h23m8y7p1j6s

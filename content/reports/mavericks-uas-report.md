@@ -1,6 +1,7 @@
 ---
 index: 12
 title: Mavericks UAS
+cover_image:
 category: Technical Team
 author: Jason D'Costa
 endpoint: /mavericks-uas

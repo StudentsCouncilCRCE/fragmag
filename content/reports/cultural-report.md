@@ -1,6 +1,7 @@
 ---
 index: 1
 title: Cultural Report
+cover_image:
 category: Students' Council
 author: Riya Gupta
 endpoint: /cultural-report

@@ -21,8 +21,8 @@ query {
         id
         title
         category
-        author
         path
+        author
       }
     }
   }

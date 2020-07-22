@@ -1,6 +1,7 @@
 ---
 index: 3
 title: Technical Report
+cover_image:
 category: Students' Council
 author: Pranay Bagrecha
 endpoint: /technical-report

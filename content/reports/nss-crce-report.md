@@ -1,6 +1,7 @@
 ---
 index: 28
 title: NSS CRCE
+cover_image:
 category: Non-Technical Council
 author: Alden D’Souza
 endpoint: /nss-crce
@@ -14,8 +15,7 @@ website:
 connect:
 ---
 
-> “The happiest people I know, are those
-> who lose themselves in the service of others”<br>
+> “The happiest people I know, are those who lose themselves in the service of others”<br>
 > – Anne Frank.
 
 The year commenced with the registration of 100 active volunteers across SE, TE and BE and kick-starting our array of activities; we began with a Tree Plantation Drive followed by an awareness program conducted by the Bisleri Association to put bottles into good use. Next were the Beach Cleanup programs at Chimbai in association with the NGO 'United Way'. In 2019, floods hit many parts of Maharashtra, and one of the most affected cities was Kolhapur. We organized a Donation Drive for flood relief which received an excellent response from the Staff and Students. It was followed by a Blood Donation drive where we witnessed active participation of our fellow Students and Staff members.

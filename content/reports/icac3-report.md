@@ -1,6 +1,7 @@
 ---
 index: 7
 title: ICAC3
+cover_image:
 category: Special Report
 author: Dr. Sapna Prabhu
 endpoint: /icac3

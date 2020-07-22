@@ -1,6 +1,7 @@
 ---
 index: 11
 title: CFR CRCE
+cover_image:
 category: Technical Team
 author: Pradnyesh Dound
 endpoint: /cfr-crce

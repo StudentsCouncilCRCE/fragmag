@@ -1,6 +1,7 @@
 ---
 index: 16
 title: ACM CRCE
+cover_image:
 category: Technical Council
 author: Chinmay Gawde
 endpoint: /acm-crce

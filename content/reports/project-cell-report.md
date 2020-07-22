@@ -1,6 +1,7 @@
 ---
 index: 13
 title: Project Cell
+cover_image:
 category: Technical Team
 author: Mohammed ahmed
 endpoint: /project-cell
@@ -26,7 +27,7 @@ Established in 2014, PROJECT CELL is an endeavour to promote innovative thinking
 8. NBA Accreditation: To display our work we prepared around 11 projects in different domains including IoT, Image Processing, Automation etc
 9. NAAC Accreditation: We demonstrated 20 working projects all of different domains including ML, Android App development, Image Processing, Sensors etc.
 
-Activities Carried out by Project Cell:
+##### Activities Carried out by Project Cell:
 
 1. This year we declared the Project Cell as Team rather than council.
 2. Project Cell Teaching: The students were taught sensor interfacing and sending data to the cloud. Different applications like Blynk, IFTTT and cloud protocol were taught in greater depth. The students were also guided in implementing their mini projects. The Students were also asked to focus on coding languages such as python. Different projects on automation such as voice controlled light with Solar panels have been implemented this year. Many realistic projects such as board cleaner, automatic lights and automatic door opening system with RFiD Tag Card as well as Face Unlock were also implemented.
@@ -34,7 +35,7 @@ Activities Carried out by Project Cell:
 4. The project developed this year from the cell for eYIC was a self balanced walking machine which has a great social cause.
 5. The front end of the project cell website was developed.
 
-Future Initiatives:
+##### Future Initiatives:
 
 - Effectively utilize the infrastructure and robotics facilities already available in college.
 - Make a Project Database i.e. create a database of all projects developed at Project Cell and other curriculum projects, making them easily available to professors and students in future.

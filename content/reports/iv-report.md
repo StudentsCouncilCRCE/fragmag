@@ -1,6 +1,7 @@
 ---
 index: 9
 title: IV Report
+cover_image: ./images/iv.webp
 category: Special Report
 author: Prof. Jayen Modi
 endpoint: /iv-report

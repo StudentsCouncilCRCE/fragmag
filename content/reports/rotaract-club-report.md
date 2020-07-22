@@ -1,6 +1,7 @@
 ---
 index: 29
 title: Rotaract Club Of CRCE
+cover_image:
 category: Non-Technical Council
 author: Nachiket Nisal
 endpoint: /rotaract-club-of-crce

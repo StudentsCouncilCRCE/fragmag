@@ -1,6 +1,7 @@
 ---
 index: 4
 title: CRMD Report
+cover_image:
 category: Students' Council
 author: Ruben Lobo
 endpoint: /crmd-report
@@ -14,10 +15,10 @@ website:
 connect:
 ---
 
-> Fr.CRCE hosted its Flagship event on the 27-28th of September 2019. The 21st edition of the annual National level Conceicao Rodrigues Memorial Debate 2019 fondly called as CRMD.
+Fr.CRCE hosted its Flagship event on the 27-28th of September 2019. The 21st edition of the annual National level Conceicao Rodrigues Memorial Debate 2019 fondly called as CRMD.
 
-> The theme for this year was
-> Ideologies: Egocentrism Engendering Self Abatement.
+The theme for this year was:<br>
+**Ideologies: Egocentrism Engendering Self Abatement**
 
 CRMD is an Oxford-style debate competition. It is lauded by people who have witnessed it. Teams from across India eagerly wait to bag the Prestigious Trophy with their debating prowess. Like always this year too, we witnessed 32 teams battling for the Grand prize. Teams from Hyderabad, Goa, Pune & Mumbai, battled hard through the league rounds to secure their position in the quarter-finals.
 

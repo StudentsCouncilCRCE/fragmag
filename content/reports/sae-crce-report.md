@@ -1,6 +1,7 @@
 ---
 index: 24
 title: SAE CRCE
+cover_image:
 category: Technical Council
 author: Jay Patel
 endpoint: /sae-crce

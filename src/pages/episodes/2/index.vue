@@ -66,7 +66,7 @@ export default {
       report: {
         title: "Reports",
         subtitle: "Account of everything that happened this year",
-        path: "/episodes/2/reports",
+        path: "/episodes/2/all-reports",
       },
     };
   },

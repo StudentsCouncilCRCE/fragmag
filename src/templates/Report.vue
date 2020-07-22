@@ -4,6 +4,56 @@
       <h1 class="report-title__text">
         {{ $page.report.title }}
       </h1>
+      <div class="socials">
+        <a
+          :href="$page.report.instagram"
+          v-if="$page.report.instagram"
+          target="_blank"
+          ><i class="fa fa-instagram fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.facebook"
+          v-if="$page.report.facebook"
+          target="_blank"
+          ><i class="fa fa-facebook fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.whatsapp"
+          v-if="$page.report.whatsapp"
+          target="_blank"
+          ><i class="fa fa-whatsapp fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.twitter"
+          v-if="$page.report.twitter"
+          target="_blank"
+          ><i class="fa fa-twitter fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.linkedin"
+          v-if="$page.report.linkedin"
+          target="_blank"
+          ><i class="fa fa-linkedin fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.website"
+          v-if="$page.report.website"
+          target="_blank"
+          ><i class="fa fa-globe fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.youtube"
+          v-if="$page.report.youtube"
+          target="_blank"
+          ><i class="fa fa-youtube fa-2x p-2"></i
+        ></a>
+        <a
+          :href="$page.report.connect"
+          v-if="$page.report.connect"
+          target="_blank"
+          ><i class="fa fa-connect fa-2x p-2"></i
+        ></a>
+      </div>
     </div>
     <div class="report content-box">
       <div class="report__header">
@@ -33,8 +83,18 @@ query report ($id: ID!) {
   report: report (id: $id) {
     title
     category
+    cover_image (blur: 10)
+    instagram
+    facebook
+    youtube
+    twitter
+    linkedin
+    whatsapp
+    website
+    connect
     path
     content
+
   }
 }
 </page-query>
