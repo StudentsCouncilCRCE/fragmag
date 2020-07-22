@@ -14,6 +14,12 @@ table {
   display:block;
 }
 
+@media only screen and (max-width: 600px) {
+  table {
+    overflow-x: scroll;
+  }
+}
+
 th, td {
   padding: 8px;
   text-align: left;
@@ -41,7 +47,7 @@ th, td {
     <td>Dabre Chelsea Moses</td>
   </tr>
   <tr>
-    <td rowspan ="3">SECOND YEAR(PRODUCTION)</td>
+    <td rowspan ="3">SECOND YEAR (PRODUCTION)</td>
     <td>1</td>
     <td>Sharma Tushant Prashaant</td>
   </tr>
@@ -54,7 +60,7 @@ th, td {
     <td>Haldankar Priyam Rajiv</td>
   </tr>
   <tr>
-    <td rowspan ="3">SECOND YEAR(ELECTRONICS)</td>
+    <td rowspan ="3">SECOND YEAR (ELECTRONICS)</td>
     <td>1</td>
     <td>Kar Sumanto Ashim</td>
   </tr>
@@ -67,7 +73,7 @@ th, td {
     <td>Dhingra Urvashi Vikram</td>
   </tr>
   <tr>
-    <td rowspan ="3">SECOND YEAR(COMPUTER)</td>
+    <td rowspan ="3">SECOND YEAR (COMPUTER)</td>
     <td>1</td>
     <td>Menezes Elita Elroy</td>
   </tr>
@@ -80,7 +86,7 @@ th, td {
     <td>Sahai Vedant Sanjeev</td>
   </tr>
   <tr>
-    <td rowspan ="3">SECOND YEAR(INFORMATION TECH)</td>
+    <td rowspan ="3">SECOND YEAR (INFORMATION TECH)</td>
     <td>1</td>
     <td>Machado Karen Felix</td>
   </tr>
@@ -93,7 +99,7 @@ th, td {
     <td>Tanwar Priya Narendra</td>
   </tr>
   <tr>
-    <td rowspan ="3">THIRD YEAR(PRODUCTION)</td>
+    <td rowspan ="3">THIRD YEAR (PRODUCTION)</td>
     <td>1</td>
     <td>Khatu Riddhesh Digambar</td>
   </tr>
@@ -106,26 +112,26 @@ th, td {
     <td>Chavan Anurag Satish</td>
   </tr>
   <tr>
-    <td rowspan ="3">THIRD YEAR(ELECTRONICS)</td>
+    <td rowspan ="3">THIRD YEAR (ELECTRONICS)</td>
     <td>1</td>
+    <td>Sheikh Aman Ahesan</td>
+  </tr>
+  <tr>
+    <td>2</td>
     <td>Pal Ashishkumar Devidas</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>Poddar Gautam D</td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>Sakhardande Vedant A</td>
-  </tr>
-  <tr>
-    <td rowspan ="4">THIRD YEAR(COMPUTER)</td>
+    <td rowspan ="4">THIRD YEAR (COMPUTER)</td>
     <td>1</td>
     <td>Sakhardande Vedant A</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Checker Juhi Vipi</td>
+    <td>Checker Juhi Vipin</td>
   </tr>
   <tr>
     <td>3</td>
@@ -136,7 +142,7 @@ th, td {
     <td>Payapilly Merlin Kuruvilla</td>
   </tr>
   <tr>
-    <td rowspan ="3">THIRD YEAR(INFORMATION TECH)</td>
+    <td rowspan ="3">THIRD YEAR (INFORMATION TECH)</td>
     <td>1</td>
     <td>Dsouza Lerisha Janice J</td>
   </tr>
@@ -146,10 +152,10 @@ th, td {
   </tr>
   <tr>
     <td>2</td>
-    <td>Singh Anuj Kuma</td>
+    <td>Singh Anuj Kumar</td>
   </tr>
   <tr>
-    <td rowspan ="3">FINAL YEAR(PRODUCTION)</td>
+    <td rowspan ="3">FINAL YEAR (PRODUCTION)</td>
     <td>1</td>
     <td>Kadam Shwet Milind</td>
   </tr>
@@ -162,7 +168,7 @@ th, td {
     <td>Dedhia Yash Ketan</td>
   </tr>
   <tr>
-    <td rowspan ="3">FINAL YEAR(ELECTRONICS)</td>
+    <td rowspan ="3">FINAL YEAR (ELECTRONICS)</td>
     <td>1</td>
     <td>Dsouza Austin Albert</td>
   </tr>
@@ -175,7 +181,7 @@ th, td {
     <td>Ranim Tanvi Suhas</td>
   </tr>
   <tr>
-    <td rowspan ="3">FINAL YEAR(COMPUTER)</td>
+    <td rowspan ="3">FINAL YEAR (COMPUTER)</td>
     <td>1</td>
     <td>Borkar Pradnya K</td>
   </tr>
@@ -188,7 +194,7 @@ th, td {
     <td>Gharat Anisha Milind</td>
   </tr>
   <tr>
-    <td rowspan ="3">FINAL YEAR(INFORMATION TECH)</td>
+    <td rowspan ="3">FINAL YEAR (INFORMATION TECH)</td>
     <td>1</td>
     <td>Rathod Vikramsingh K</td>
   </tr>
