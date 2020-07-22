@@ -1,6 +1,6 @@
 ---
 index: 15
-title: Vaayushastra 
+title: Vaayushastra
 category: Technical Team
 author: Saumeel Gabhare
 endpoint: /vaayushastra-report
@@ -14,4 +14,4 @@ Well known for our amazing designs, ingenious avionics systems and having a stel
 
 > **Saumeel Gabhare**<br>
 > Captain
-> Team Vaayushstra
+> Team Vaayushastra

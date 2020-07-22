@@ -1,9 +1,9 @@
 ---
 index: 4
-title: Editorial Report
+title: CRMD 
 category: Students' Council
 author: Ruben Lobo
-endpoint: /editorial-report
+endpoint: /crmd-report
 ---
 
 > Fr.CRCE hosted its Flagship event on the 27-28th of September 2019. The 21st edition of the annual National level Conceicao Rodrigues Memorial Debate 2019 fondly called as CRMD.

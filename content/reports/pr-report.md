@@ -1,6 +1,6 @@
 ---
 index: 5
-title: Public Relations Report
+title: Public Relations 
 category: Students' Council
 author: Rozebud Gonsalves
 endpoint: /pr-report

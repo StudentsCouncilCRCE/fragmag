@@ -1,6 +1,6 @@
 ---
 index: 3
-title: Technical Report
+title: Technical
 category: Students' Council
 author: Pranay Bagrecha
 endpoint: /technical-report
@@ -17,7 +17,7 @@ With 32 teams participating, we saw incredible competition amongst students to w
 
 Commencement of the even semester saw the college invite applications for the much anticipated Smart India Hackathon shortlisting process. This internal hackathon aimed to motivate teams to work on the prototype of their solutions for problem statements picked off the SIH website. The hackathon concluded with top 5 teams post judging rounds that got through to the next selection rounds for SIH 2020.
 
-The climax of the academic year was all set to take place with the Technical Festival, Crescendo 2020. With the hit events from previous years, and new additions this year, Crescendo was going to be a consummate affair where the strongest technical minds from all over the city come and compete for the much sought after Crescendo Best Technical Class Trophy and Best Contingent Trophy.
+The climax of the academic year was all set to take place with the Technical Festival, Crescendo 2020. With the hit events from previous years, and new additions this year, Crescendo was going to be a grand affair where the strongest technical minds from all over the city come and compete for the much sought after Crescendo Best Technical Class Trophy and Best Contingent Trophy.
 
 Right from Hack-athon, to Mech-athon, to Hog-athon, this year, Crescendo had it all. Keeping up with the times, this edition also saw the release of the Crescendo application with an integrated payment gateway to support all online/UPI payments making the event, registration, participation and point calculation a completely cashless and automated affair. A referral system put in place this year also aimed to boost participation amongst students.
 
@@ -27,6 +27,5 @@ Update: Crescendo 2020 was rescinded to contain the COVID-19 outbreak.
 
 Absolutely devastated to see our technical fest not getting executed. The Council and Crescendo Team had worked really hard to put everything in order. Nevertheless, I see my juniors fervently learning and implementing technologies, that is my marker for knowing we are headed in the right direction. That’s my cue to hand over the baton.
 
-> Signing off,<br>
-> **Pranay Bagrecha**<br>
+> Signing off,<br> > **Pranay Bagrecha**<br>
 > (Technical Secretary)

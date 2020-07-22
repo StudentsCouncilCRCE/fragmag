@@ -1,6 +1,6 @@
 ---
 index: 2
-title: Sports Report
+title: Sports 
 category: Students' Council
 author: Surya Pratap Shahi & Simran D'souza
 endpoint: /sports-report
