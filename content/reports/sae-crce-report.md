@@ -3,8 +3,8 @@ index: 24
 title: SAE CRCE
 category: Technical Council
 author: Jay Patel
-endpoint: /sae-crce-report
-instagram:
+endpoint: /sae-crce
+instagram: https://instagram.com/sae_crce?igshid=1d3mkife93mkw
 facebook:
 youtube:
 twitter:
@@ -26,11 +26,3 @@ Another Industrial Visit took place on the 8th of February, 2020 for students of
 
 > **Jay Patel**<br>
 > Secretary SAE
-
-<center>
-<a
-          href="https://instagram.com/sae_crce?igshid=1d3mkife93mkw"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-</center>

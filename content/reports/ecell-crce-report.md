@@ -3,14 +3,14 @@ index: 27
 title: E-Cell CRCE
 category: Non-Technical Council
 author: Umayr Farooqui
-endpoint: /ecell-crce-report
-instagram:
+endpoint: /ecell-crce
+instagram: https://www.instagram.com/ecell_crce/
 facebook:
 youtube:
 twitter:
 linkedin:
 whatsapp:
-website:
+website: https://ecell-official.github.io/Ecell/
 connect:
 ---
 
@@ -24,16 +24,3 @@ We wouldn't have been able to achieve this level of success without the continuo
 
 > **Umayr Farooqui**<br>
 > Editor E-Cell
-
-<center>
-<a
-          href="https://www.instagram.com/ecell_crce/"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://ecell-official.github.io/Ecell/"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

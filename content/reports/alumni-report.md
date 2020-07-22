@@ -1,6 +1,6 @@
 ---
 index: 6
-title: Alumni
+title: Alumni Report
 category: Special Report
 author: Prof.Prachi Patil
 endpoint: /alumni-report
@@ -11,7 +11,7 @@ twitter:
 linkedin:
 whatsapp:
 website:
-connect:
+connect: http://frcrce.almaconnect.com/
 ---
 
 The Alumni Committee of Fr. Conceicao Rodrigues College of Engineering (Fr. CRCE) functions to strengthen the bond between the Institute and its Alumni. A strong Alumni base is one of the formidable strengths for any elite institute. Thereby, the Committee acts as a platform where the existing students and the Alumni can interact for a healthy and mutually beneficial relationship. Our prime objective is to foster relations between the Alumni and the Institute and strengthen the bond between Alumni and current students.
@@ -45,11 +45,3 @@ We request all our Alumni to connect us on frcrce.almaconnect.com and help us gr
 > **Prof. Prachi Patil**<br>
 > Secretary
 > Fr.CRCE Alumni Association
-
-<center>
-        <a
-          href="http://frcrce.almaconnect.com/"
-          target="_blank"
-          ><i class="fa fa-link fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

@@ -3,14 +3,14 @@ index: 19
 title: CSI
 category: Technical Council
 author: Sahaana Iyer
-endpoint: /csi-report
-instagram:
+endpoint: /csi
+instagram: https://www.instagram.com/csi_crce/
 facebook:
 youtube:
 twitter:
 linkedin:
 whatsapp:
-website:
+website: http://crcecsi.com
 connect:
 ---
 
@@ -24,16 +24,3 @@ A Poster Making Competition was conducted on Innovation Day in collaboration wit
 
 > **Saahana Iyer**<br>
 > Documentation Head
-
-<center>
-<a
-          href="https://www.instagram.com/csi_crce/"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="http://crcecsi.com"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

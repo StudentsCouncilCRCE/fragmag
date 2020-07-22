@@ -3,14 +3,14 @@ index: 13
 title: Project Cell
 category: Technical Team
 author: Mohammed ahmed
-endpoint: /project-cell-report
-instagram:
-facebook:
+endpoint: /project-cell
+instagram: https://www.instagram.com/project_cell_crce/?hl=en
+facebook: https://m.facebook.com/pages/category/Phone-Tablet/Project-cell-413557959044131/
 youtube:
 twitter:
-linkedin:
+linkedin: https://www.linkedin.com/company/projectcellcrce
 whatsapp:
-website:
+website: http://projectcell.pythonanywhere.com
 connect:
 ---
 
@@ -45,26 +45,3 @@ Last Note: We the current team are thankful to the faculty and the HoD of electr
 
 > **Mohammed ahmed**<br>
 > Team Captain
-
-<center>
-<a
-          href="https://www.instagram.com/project_cell_crce/?hl=en"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-         <a
-          href="https://m.facebook.com/pages/category/Phone-Tablet/Project-cell-413557959044131/"
-          target="_blank"
-          ><i class="fa fa-facebook-square fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://www.linkedin.com/company/projectcellcrce"
-          target="_blank"
-          ><i class="fa fa-linkedin fa-2x p-2" aria-hidden="true"></i
-        ></a>
-        <a
-          href="http://projectcell.pythonanywhere.com"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

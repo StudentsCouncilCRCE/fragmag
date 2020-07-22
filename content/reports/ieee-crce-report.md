@@ -3,12 +3,12 @@ index: 21
 title: IEEE CRCE
 category: Technical Council
 author: Joel Francis Paul & Prashant Singh Rawat
-endpoint: /ieee-crce-report
-instagram:
-facebook:
+endpoint: /ieee-crce
+instagram: https://instagram.com/iiiexcrce?igshid=1klrmxnv8kte7
+facebook: https://www.facebook.com/IIIExCRCE/
 youtube:
 twitter:
-linkedin:
+linkedin: https://www.linkedin.com/company/14423096
 whatsapp:
 website:
 connect:
@@ -20,21 +20,3 @@ With the council formation in the month of July 2019, IEEE Council was formed un
 
 > **Joel Francis Paul & Prashant Singh Rawat**<br>
 > (Documentation Head) (Vice-Chairperson)
-
-<center>
-<a
-          href="https://instagram.com/iiiexcrce?igshid=1klrmxnv8kte7"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://www.facebook.com/IIIExCRCE/"
-          target="_blank"
-          ><i class="fa fa-facebook-square fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://www.linkedin.com/company/14423096"
-          target="_blank"
-          ><i class="fa fa-linkedin fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

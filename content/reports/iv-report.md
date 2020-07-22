@@ -1,8 +1,8 @@
 ---
 index: 9
-title: IV 
+title: IV Report
 category: Special Report
-author: Prof.Jayen Modi
+author: Prof. Jayen Modi
 endpoint: /iv-report
 instagram:
 facebook:

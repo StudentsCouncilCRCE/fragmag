@@ -3,13 +3,13 @@ index: 20
 title: DSC CRCE
 category: Technical Council
 author: Chyankk Kumar
-endpoint: /dsc-crce-report
-instagram:
-facebook:
+endpoint: /dsc-crce
+instagram: https://instagram.com/dsc_crce?igshid=1clbfhokxwrrl
+facebook: https://www.facebook.com/DSCCRCE/
 youtube:
-twitter:
+twitter: https://mobile.twitter.com/dsc_crce
 linkedin:
-whatsapp:
+whatsapp: https://chat.whatsapp.com/HHMgfUQflft3OsoGKteA44
 website:
 connect:
 ---
@@ -93,26 +93,3 @@ none of our event would&#39;ve been possible. Thanks a million times, to all!
 
 > **Chyankk Kumar**<br>
 > DSC CRCE
-
-<center>
-<a
-          href="https://instagram.com/dsc_crce?igshid=1clbfhokxwrrl"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://www.facebook.com/DSCCRCE/"
-          target="_blank"
-          ><i class="fa fa-facebook-square fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://mobile.twitter.com/dsc_crce"
-          target="_blank"
-          ><i class="fa fa-twitter fa-2x p-2" aria-hidden="true"></i
-        ></a>
-        <a
-          href="https://chat.whatsapp.com/HHMgfUQflft3OsoGKteA44"
-          target="_blank"
-          ><i class="fa fa-whatsapp fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

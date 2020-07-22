@@ -3,14 +3,14 @@ index: 15
 title: Vaayushastra
 category: Technical Team
 author: Saumeel Gabhare
-endpoint: /vaayushastra-report
-instagram:
-facebook:
+endpoint: /vaayushastra
+instagram: https://www.instagram.com/teamvaayushastra/
+facebook: https://m.facebook.com/TeamVaayushastra/
 youtube:
 twitter:
-linkedin:
+linkedin: https://www.linkedin.com/company/team-vaayushastra
 whatsapp:
-website:
+website: http://www.vaayushastra.in
 connect:
 ---
 
@@ -23,26 +23,3 @@ Well known for our amazing designs, ingenious avionics systems and having a stel
 > **Saumeel Gabhare**<br>
 > Captain
 > Team Vaayushastra
-
-<center>
-<a
-          href="https://www.instagram.com/teamvaayushastra/"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://m.facebook.com/TeamVaayushastra/"
-          target="_blank"
-          ><i class="fa fa-facebook-square fa-2x p-2"></i
-        ></a>
-         <a
-          href="https://www.linkedin.com/company/team-vaayushastra"
-          target="_blank"
-          ><i class="fa fa-linkedin fa-2x p-2" aria-hidden="true"></i
-        ></a>
-        <a
-          href="http://www.vaayushastra.in"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

@@ -3,13 +3,13 @@ index: 14
 title: Robocon CRCE
 category: Technical Team
 author: Shantanu Parab
-endpoint: /robocon-crce-report
-instagram:
-facebook:
-youtube:
+endpoint: /robocon-crce
+instagram: https://instagram.com/robocon.crce?igshid=ad22lnzemr0a
+facebook: https://m.facebook.com/roboconcrce/
+youtube: https://www.youtube.com/channel/UCbejVM8W4XUWwHX5Of_tPFQ
 twitter:
 linkedin:
-whatsapp:
+whatsapp: http://roboconcrce.org/
 website:
 connect:
 ---
@@ -26,26 +26,3 @@ Lastly, we would like to thank Rev. Fr. Valerian D'Souza, our principal Dr.Srija
 
 > **Shantanu Parab**<br>
 > Team Captain
-
-<center>
-<a
-          href="https://instagram.com/robocon.crce?igshid=ad22lnzemr0a"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://www.youtube.com/channel/UCbejVM8W4XUWwHX5Of_tPFQ"
-          target="_blank"
-          ><i class="fa fa-youtube-play fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://m.facebook.com/roboconcrce/"
-          target="_blank"
-          ><i class="fa fa-facebook-square fa-2x p-2"></i
-        ></a>
-        <a
-          href="http://roboconcrce.org/"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

@@ -3,14 +3,14 @@ index: 18
 title: Codelabs CRCE
 category: Technical Council
 author: Albin Tharayil
-endpoint: /codelabs-crce-report
-instagram:
+endpoint: /codelabs-crce
+instagram: https://instagram.com/codelabscrce?igshid=18mx3dl9ghmrf
 facebook:
 youtube:
 twitter:
 linkedin:
 whatsapp:
-website:
+website: https://codelabscrce-ee0d5.firebaseapp.com/#index
 connect:
 ---
 
@@ -29,16 +29,3 @@ Other than these events, Codelabs CRCE along with Mozilla Campus CRCE organized 
 
 > **Albin Tharayil**<br>
 > Vice Chairperson
-
-<center>
-<a
-          href="https://instagram.com/codelabscrce?igshid=18mx3dl9ghmrf"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://codelabscrce-ee0d5.firebaseapp.com/#index"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

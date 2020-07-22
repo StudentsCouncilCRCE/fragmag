@@ -3,7 +3,7 @@ index: 8
 title: IIC2.0-Fr.CRCE
 category: Special Report
 author: Prof.Swati Ringe
-endpoint: /iic-report
+endpoint: /iic
 instagram:
 facebook:
 youtube:

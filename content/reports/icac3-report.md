@@ -3,7 +3,7 @@ index: 7
 title: ICAC3
 category: Special Report
 author: Dr. Sapna Prabhu
-endpoint: /icac3-report
+endpoint: /icac3
 instagram:
 facebook:
 youtube:

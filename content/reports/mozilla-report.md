@@ -3,14 +3,14 @@ index: 23
 title: Mozilla
 category: Technical Council
 author: Rajesh Manjrekar
-endpoint: /mozilla-report
-instagram:
+endpoint: /mozilla
+instagram: https://instagram.com/mozillacampuscrce?igshid=bscb2v6hr8mm
 facebook:
 youtube:
-twitter:
+twitter: https://twitter.com/Mozillaclubcrce?s=08
 linkedin:
 whatsapp:
-website:
+website: https://mozillaclub.github.io
 connect:
 ---
 
@@ -35,21 +35,3 @@ During our college Innovation Day, held on 30th January 2020, we hosted a non-te
 
 > **Rajesh Manjrekar**<br>
 > Team Captain
-
-<center>
-<a
-          href="https://instagram.com/mozillacampuscrce?igshid=bscb2v6hr8mm"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="hhttps://twitter.com/Mozillaclubcrce?s=08"
-          target="_blank"
-          ><i class="fa fa-twitter fa-2x p-2" aria-hidden="true"></i
-        ></a>
-        <a
-          href="https://mozillaclub.github.io"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

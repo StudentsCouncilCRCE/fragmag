@@ -3,7 +3,7 @@ index: 17
 title: ASME CRCE
 category: Technical Council
 author: Prof. Deepika Singh
-endpoint: /asme-crce-report
+endpoint: /asme-crce
 instagram:
 facebook:
 youtube:

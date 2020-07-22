@@ -3,14 +3,14 @@ index: 11
 title: CFR CRCE
 category: Technical Team
 author: Pradnyesh Dound
-endpoint: /cfr-crce-report
-instagram:
-facebook:
-youtube:
-twitter:
+endpoint: /cfr-crce
+instagram: http://www.instagram.com/teamcfr
+facebook: http://www.facebook.com/CRCEFormulaRacing
+youtube: https://www.youtube.com/channel/UCwiXHOedaDaBZQUqkvqh2qQ
+twitter: https://twitter.com/teamcfr?s=08
 linkedin:
 whatsapp:
-website:
+website: http://crceformularacing.com
 connect:
 ---
 
@@ -26,31 +26,3 @@ New Projects bring new challenges which ultimately bring new responsibilities. W
 > **Pradnyesh Dound**<br>
 > Team Manager and Jt. Marketing Head<br>
 > Team CFR
-
-<center>
-<a
-          href="https://instagram.com/codelabscrce?igshid=18mx3dl9ghmrf"
-          target="_blank"
-          ><i class="fa fa-instagram fa-2x p-2"></i
-        ></a>
-        <a
-          href="https://www.youtube.com/channel/UCwiXHOedaDaBZQUqkvqh2qQ"
-          target="_blank"
-          ><i class="fa fa-youtube-play fa-2x p-2"></i
-        ></a>
-        <a
-          href="http://www.facebook.com/CRCEFormulaRacing"
-          target="_blank"
-          ><i class="fa fa-facebook-square fa-2x p-2"></i
-        ></a>
-        <a
-          href=" https://twitter.com/teamcfr?s=08"
-          target="_blank"
-          ><i class="fa fa-twitter fa-2x p-2" aria-hidden="true"></i
-        ></a>
-        <a
-          href="http://crceformularacing.com"
-          target="_blank"
-          ><i class="fa fa-globe fa-2x p-2" aria-hidden="true"></i
-        ></a>
-</center>

@@ -3,7 +3,7 @@ index: 25
 title: SME CRCE
 category: Technical Council
 author: Dr. Vasim A. Shaikh
-endpoint: /sme-crce-report
+endpoint: /sme-crce
 instagram:
 facebook:
 youtube:

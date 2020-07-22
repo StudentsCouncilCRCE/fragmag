@@ -1,6 +1,6 @@
 ---
 index: 4
-title: CRMD 
+title: CRMD Report
 category: Students' Council
 author: Ruben Lobo
 endpoint: /crmd-report
