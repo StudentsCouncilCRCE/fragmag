@@ -56,7 +56,7 @@ export default {
 .report-card {
   position: relative;
   width: 100% !important;
-  margin: 0 auto !important;
+  margin: 0.1rem auto !important;
 
   &__title {
     padding: 0;
