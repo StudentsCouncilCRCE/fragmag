@@ -1,9 +1,7 @@
 <template>
   <Layout>
     <div class="article-title">
-      <h1 class="article-title__text">
-        {{ $page.article.title }}
-      </h1>
+      <h1 class="article-title__text">{{ $page.article.title }}</h1>
       <ArticleMeta :article="$page.article" />
     </div>
     <div class="article content-box">
@@ -74,14 +72,9 @@ query Article ($id: ID!) {
   }
 
   &__content {
-    h2:first-child {
-      margin-top: 0;
-    }
-
-    p:first-of-type {
-      font-size: 1.2em;
-      color: var(--title-color);
-    }
+    text-align: justify;
+    font-family: "Noto Sans", sans-serif !important;
+    font-size: 1.1rem;
 
     img {
       width: calc(100% + var(--space) * 2);
