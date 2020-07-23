@@ -16,14 +16,12 @@
         </css-doodle>
       </div>
     </ClientOnly>
-    <h1 class="p-1 text-center">Over The Course</h1>
+    <h1 class="p-1 text-center">Glimpses Of Time</h1>
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-4 gap-4">
-      <LinkCard :link="report"></LinkCard>
-      <LinkCard
-        v-for="episode in $page.episodes.edges"
-        :key="episode.node.id"
-        :link="episode.node"
-      />
+      <LinkCard :link="art"></LinkCard>
+      <LinkCard :link="photo"></LinkCard>
+      <LinkCard :link="hindi"></LinkCard>
+      <LinkCard :link="marathi"></LinkCard>
     </div>
   </Layout>
 </template>
@@ -42,31 +40,31 @@
 }
 </style>
 
-<page-query>
-query {
-  episodes: allEpisode(filter: { number: { eq: 3 }}) {
-    edges {
-      node {
-        id
-        title
-        subtitle
-        path
-      }
-    }
-  }
-}
-</page-query>
-
 <script>
 import LinkCard from "~/components/LinkCard.vue";
 
 export default {
   data() {
     return {
-      report: {
-        title: "Reports",
-        subtitle: "Account of everything that happened this year",
-        path: "/episodes/2/all-reports",
+      hindi: {
+        title: "Hindi Literature",
+        subtitle: "हिंदी साहित्य ",
+        path: "/episodes/2/hindi.vue",
+      },
+      marathi: {
+        title: "Marathi Literature",
+        subtitle: "मराठी  साहित्य",
+        path: "/episodes/3/marathi.vue",
+      },
+      photo: {
+        title: "Photography",
+        subtitle: "Glimpses of the Theme through Photographs",
+        path: "/episodes/3/photo.vue",
+      },
+      art: {
+        title: "Artwork",
+        subtitle: "Art that never faded through time",
+        path: "/episodes/3/art.vue",
       },
     };
   },
@@ -74,7 +72,7 @@ export default {
     LinkCard,
   },
   metaInfo: {
-    title: "Over The Course",
+    title: "Glimpses Of Time ",
   },
 };
 </script>

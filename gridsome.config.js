@@ -6,6 +6,7 @@ module.exports = {
     Desk: "/desk/:endpoint",
     Episode: "/episodes/:number/:endpoint",
     Report: "/reports/:endpoint",
+    Hindi: "/hindi/:endpoint",
   },
   plugins: [
     {
@@ -47,6 +48,13 @@ module.exports = {
       options: {
         typeName: "Report",
         path: "content/reports/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Hindi",
+        path: "content/hindi/*.md",
       },
     },
   ],
