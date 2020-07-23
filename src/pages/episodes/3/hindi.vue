@@ -2,7 +2,11 @@
   <Layout :show-logo="true">
     <h1 class="p-1 text-center">Hindi Literature</h1>
     <div class="content pt-4 grid grid-cols-1 gap-4">
-      <HindiListItem v-for="hindi in $page.hindi.edges" :key="hindi.node.id" :hindi="hindi.node" />
+      <ArticleListItem
+        v-for="article in $page.hindi.edges"
+        :key="article.node.id"
+        :article="article.node"
+      />
     </div>
   </Layout>
 </template>
@@ -11,7 +15,7 @@
 
 <page-query>
 query {
-  hindi: allHindi(sortBy:"index", order: ASC,) {
+  hindi: allArticle(sortBy:"index", order: ASC, filter: {section: {eq: "hindi"}}) {
     edges {
       node {
         id
@@ -32,11 +36,11 @@ query {
 </style>
 
 <script>
-import HindiListItem from "~/components/HindiListItem.vue";
+import ArticleListItem from "~/components/ArticleListItem.vue";
 
 export default {
   components: {
-    HindiListItem,
+    ArticleListItem,
   },
   metaInfo: {
     title: "Hindi Literature",

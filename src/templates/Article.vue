@@ -7,14 +7,9 @@
       <ArticleMeta :article="$page.article" />
     </div>
     <div class="article content-box">
-      <div class="article__header">
-        <g-image
-          alt="Cover image"
-          v-if="$page.article.cover_image"
-          :src="$page.article.cover_image"
-        />
-      </div>
       <div class="article__content" v-html="$page.article.content" />
+      <div class="article__author" v-html="$page.article.author" />
+      <div class="article__class" v-html="$page.article.class" />
     </div>
   </Layout>
 </template>
@@ -45,10 +40,11 @@ query Article ($id: ID!) {
   article: article (id: $id) {
     title
     path
+    section
     timeToRead
-    description
+    class
+    author
     content
-    cover_image (width: 860, blur: 10)
   }
 }
 </page-query>

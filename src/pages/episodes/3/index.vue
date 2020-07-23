@@ -48,23 +48,23 @@ export default {
     return {
       hindi: {
         title: "Hindi Literature",
-        subtitle: "हिंदी साहित्य ",
-        path: "/episodes/2/hindi.vue",
+        subtitle: "हिंदी साहित्य",
+        path: "/episodes/3/hindi",
       },
       marathi: {
         title: "Marathi Literature",
-        subtitle: "मराठी  साहित्य",
-        path: "/episodes/3/marathi.vue",
+        subtitle: "मराठी साहित्य",
+        path: "/episodes/3/marathi",
       },
       photo: {
         title: "Photography",
-        subtitle: "Glimpses of the Theme through Photographs",
-        path: "/episodes/3/photo.vue",
+        subtitle: "Glimpses of the theme through photographs",
+        path: "/episodes/3/photos",
       },
       art: {
         title: "Artwork",
         subtitle: "Art that never faded through time",
-        path: "/episodes/3/art.vue",
+        path: "/episodes/3/artwork",
       },
     };
   },
