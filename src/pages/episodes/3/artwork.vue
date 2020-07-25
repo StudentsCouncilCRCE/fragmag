@@ -7,7 +7,7 @@
       <PhotoViewCard
         v-for="artwork in $page.artwork.edges"
         :key="artwork.node.id"
-        :item="artwork.node"
+        :photo="artwork.node"
       />
     </div>
   </Layout>
