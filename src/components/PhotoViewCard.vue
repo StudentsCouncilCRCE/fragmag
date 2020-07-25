@@ -1,23 +1,23 @@
 <template>
-  <div class="item-card">
+  <div class="photo-card">
     <g-image
       alt="Cover image"
-      v-if="item.image"
-      class="item-card__image"
-      :src="item.image"
+      v-if="photo.image"
+      class="photo-card__image"
+      :src="photo.image"
     />
-    <h5 class="item-card__title">{{ item.name }} - {{ item.class }}</h5>
+    <h5 class="photo-card__title">{{ photo.name }} - {{ photo.class }}</h5>
   </div>
 </template>
 
 <script>
 export default {
-  props: ["item"],
+  props: ["photo"],
 };
 </script>
 
 <style lang="scss">
-.item-card {
+.photo-card {
   margin-bottom: calc(var(--space) - 10px);
   position: relative;
   text-align: center;
@@ -39,11 +39,6 @@ export default {
     background-color: rgba(0, 0, 0, 0.7);
     bottom: 1%;
     right: 8px;
-    $breakpoint-tablet: 768px;
-    @media (min-width: $breakpoint-tablet) {
-      top: 60%;
-      right: 8px;
-    }
   }
 
   &:hover {
