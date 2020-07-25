@@ -49,6 +49,20 @@ module.exports = {
         path: "content/reports/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Artwork",
+        path: "content/artwork/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Photography",
+        path: "content/photography/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {
