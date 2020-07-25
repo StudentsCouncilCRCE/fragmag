@@ -1,11 +1,6 @@
 <template>
   <div class="item-card">
-    <g-image
-      alt="Cover image"
-      v-if="item.image"
-      class="item-card__image"
-      :src="item.image"
-    />
+    <g-image alt="Cover image" v-if="item.image" class="item-card__image" :src="item.image" />
     <h5 class="item-card__title">{{ item.name }} - {{ item.class }}</h5>
     <!-- <a href="#" @click.prevent="showModal = true"></a> -->
   </div>
@@ -38,7 +33,7 @@ export default {
     border-radius: var(--radius);
     padding: 0.25rem;
     background-color: rgba(0, 0, 0, 0.7);
-    bottom: 4px;
+    //bottom: 4px;
     right: 8px;
   }
 
