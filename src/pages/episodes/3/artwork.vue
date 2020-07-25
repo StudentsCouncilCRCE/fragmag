@@ -21,7 +21,7 @@ query {
     edges {
       node {
         id
-        image (blur: 10, width: 400, height: 400)
+        image (blur: 10)
         name
         class
       }

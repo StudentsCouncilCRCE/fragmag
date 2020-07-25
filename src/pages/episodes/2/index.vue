@@ -44,7 +44,7 @@
 
 <page-query>
 query {
-  episodes: allEpisode(filter: { number: { eq: 3 }}) {
+  episodes: allEpisode(filter: { number: { eq: 2 }}) {
     edges {
       node {
         id
