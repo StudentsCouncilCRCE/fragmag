@@ -227,7 +227,8 @@ export default {
         {
           title: "Glimpses Of Time",
           number: "Ep. 3",
-          subtitle: "Coming on 25th July",
+          subtitle: "Photography, Artwork, Hindi and Marathi Literature",
+          path: "/episodes/3",
         },
         {
           title: "Writings on the Wall",
