@@ -6,8 +6,8 @@
       class="item-card__image"
       :src="item.image"
     />
-    <div class="item-card__layer"></div>
-    <h4 class="item-card__title" v-html="item.title" />
+    <h5 class="item-card__title">{{ item.name }} - {{ item.class }}</h5>
+    <!-- <a href="#" @click.prevent="showModal = true"></a> -->
   </div>
 </template>
 
@@ -19,7 +19,7 @@ export default {
 
 <style lang="scss">
 .item-card {
-  margin-bottom: calc(var(--space) - 10px);
+  //margin-bottom: calc(var(--space) - 10px);
   position: relative;
   text-align: center;
   border-radius: var(--radius);
@@ -35,9 +35,11 @@ export default {
   &__title {
     color: white;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    border-radius: var(--radius);
+    padding: 0.25rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 4px;
+    right: 8px;
   }
 
   &:hover {

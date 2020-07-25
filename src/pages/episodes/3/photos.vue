@@ -9,6 +9,13 @@
         :key="photo.node.id"
         :item="photo.node"
       />
+      <!-- <vue-tailwind-modal
+        :showing="showModal != null"
+        @close="showModal = null"
+        :showClose="true"
+      >
+        <g-image :src="showModal.node.image" />
+      </vue-tailwind-modal> -->
     </div>
   </Layout>
 </template>
@@ -21,7 +28,9 @@ query {
     edges {
       node {
         id
-        image (blur: 10, width: 500, height: 500)
+        image (blur: 10, width: 400, height: 400)
+        name
+        class
       }
     }
   }
@@ -37,10 +46,17 @@ query {
 
 <script>
 import PhotoViewCard from "~/components/PhotoViewCard.vue";
+import VueTailwindModal from "vue-tailwind-modal";
 
 export default {
+  data() {
+    return {
+      showModal: null,
+    };
+  },
   components: {
     PhotoViewCard,
+    VueTailwindModal,
   },
   metaInfo: {
     title: "Photography",

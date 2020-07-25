@@ -1,6 +1,6 @@
 ---
 image: ./images/miriyala.webp
 endpoint: miriyala
-name: Miriyala Veerabhadrarao
-class: Assistant Professor Prod Engineer
+name: MVB Rao
+class: Prod. Professor
 ---
