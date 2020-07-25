@@ -39,11 +39,6 @@ export default {
     background-color: rgba(0, 0, 0, 0.7);
     bottom: 1%;
     right: 8px;
-    $breakpoint-tablet: 768px;
-    @media (min-width: $breakpoint-tablet) {
-      top: 60%;
-      right: 8px;
-    }
   }
 
   &:hover {
