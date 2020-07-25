@@ -1,6 +1,6 @@
 ---
 image: ./images/abhishek.webp
 endpoint: abhishek
-name: Aabhishek Ahirrao
+name: Abhishek Ahirrao
 class: TE COMPS
 ---
