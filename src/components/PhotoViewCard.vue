@@ -33,6 +33,7 @@ export default {
     border-radius: var(--radius);
     padding: 0.25rem;
     background-color: rgba(0, 0, 0, 0.7);
+    top: 20px;
     //bottom: 4px;
     right: 8px;
   }
