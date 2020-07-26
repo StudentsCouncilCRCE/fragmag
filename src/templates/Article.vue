@@ -72,7 +72,7 @@ query Article ($id: ID!) {
   }
 
   &__content {
-    text-align: center;
+    text-align: justify;
     font-family: "Noto Sans", sans-serif !important;
     font-size: 1.1rem;
 

@@ -16,14 +16,10 @@
         </css-doodle>
       </div>
     </ClientOnly>
-    <h1 class="p-1 text-center">Over The Course</h1>
-    <div class="pt-4 grid grid-cols-1 lg:grid-cols-4 gap-4">
-      <LinkCard :link="report"></LinkCard>
-      <LinkCard
-        v-for="episode in $page.episodes.edges"
-        :key="episode.node.id"
-        :link="episode.node"
-      />
+    <h1 class="p-1 text-center">Writings On The Wall</h1>
+    <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-2">
+      <LinkCard :link="english"></LinkCard>
+      <LinkCard :link="technical"></LinkCard>
     </div>
   </Layout>
 </template>
@@ -42,31 +38,23 @@
 }
 </style>
 
-<page-query>
-query {
-  episodes: allEpisode(filter: { number: { eq: 2 }}) {
-    edges {
-      node {
-        id
-        title
-        subtitle
-        path
-      }
-    }
-  }
-}
-</page-query>
-
 <script>
 import LinkCard from "~/components/LinkCard.vue";
 
 export default {
   data() {
     return {
-      report: {
-        title: "Reports",
-        subtitle: "Account of everything that happened this year",
-        path: "/episodes/2/all-reports",
+      english: {
+        title: "English Literature",
+        subtitle:
+          "The poem, the old Write-up,The Incomplete Write Up that finally made through...",
+        path: "/episodes/4/english",
+      },
+      technical: {
+        title: "Technical Literature",
+        subtitle:
+          "The field expertise of the set of fine students and teachers of the institution",
+        path: "/episodes/4/technical",
       },
     };
   },
@@ -74,7 +62,7 @@ export default {
     LinkCard,
   },
   metaInfo: {
-    title: "Over The Course",
+    title: "Writings On The Wall",
   },
 };
 </script>

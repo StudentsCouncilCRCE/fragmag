@@ -1,9 +1,9 @@
 <template>
   <Layout :show-logo="true">
-    <h1 class="p-1 text-center">Hindi Literature</h1>
+    <h1 class="p-1 text-center">English Literature</h1>
     <div class="content pt-4 grid grid-cols-1 gap-4">
       <ArticleListItem
-        v-for="article in $page.hindi.edges"
+        v-for="article in $page.english.edges"
         :key="article.node.id"
         :article="article.node"
       />
@@ -15,7 +15,7 @@
 
 <page-query>
 query {
-  hindi: allArticle(sortBy:"index", order: ASC, filter: {section: {eq: "hindi"}}) {
+ english: allArticle(sortBy:"index", order: ASC, filter: {section: {eq: "english"}}) {
     edges {
       node {
         id
@@ -43,7 +43,7 @@ export default {
     ArticleListItem,
   },
   metaInfo: {
-    title: "Hindi Literature",
+    title: "english Literature",
   },
 };
 </script>

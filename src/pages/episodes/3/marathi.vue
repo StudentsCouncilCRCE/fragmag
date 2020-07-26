@@ -31,7 +31,7 @@ query {
 
 <style lang="scss" scoped>
 .content {
-  align-items: center;
+  text-align: center;
 }
 </style>
 
