@@ -20,13 +20,16 @@
       <h1 id="fragmag">FRAGMAG</h1>
       <div class="flex flex-wrap sub-content">
         <div class="w-full md:w-1/3 mb-4">
-          <g-image class="fragmag-cover" src="~/assets/images/fragmag.webp"></g-image>
+          <g-image
+            class="fragmag-cover"
+            src="~/assets/images/fragmag.webp"
+          ></g-image>
         </div>
         <div class="w-full md:w-2/3 mb-4">
           <h1 class="mt-2 text-4xl">Catalyse</h1>
-          <blockquote
-            style="text-align:left;"
-          >Catalyse: Cause or Accelerate (a reaction) by acting as a catalyst.</blockquote>
+          <blockquote style="text-align:left;">
+            Catalyse: Cause or Accelerate (a reaction) by acting as a catalyst.
+          </blockquote>
           <br />
           <p>
             Welcome to a mercurial world backed by the latest technological
@@ -60,8 +63,14 @@
       <div class="content-center text-center editorial">
         <LinkCard :link="editorial" />
       </div>
-      <div class="w-100 pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        <LinkCard v-for="episode in episodes" :key="episode.title" :link="episode" />
+      <div
+        class="w-100 pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4"
+      >
+        <LinkCard
+          v-for="episode in episodes"
+          :key="episode.title"
+          :link="episode"
+        />
       </div>
     </div>
   </Layout>
@@ -230,8 +239,8 @@ export default {
         {
           title: "The New Normal",
           number: "Ep. 5",
-          subtitle: "Lockdown Stories and all about the BEs",
-          path: "/episodes/5",
+          subtitle: "Coming on 1st August",
+          // path: "/episodes/5",
         },
       ],
     };

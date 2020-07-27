@@ -47,13 +47,13 @@ export default {
       english: {
         title: "English Literature",
         subtitle:
-          "The poem, the old Write-up,The Incomplete Write Up that finally made through...",
+          "The poem, the old write-up, the incomplete write-up that finally made it through",
         path: "/episodes/4/english",
       },
       technical: {
         title: "Technical Literature",
         subtitle:
-          "The field expertise of the set of fine students and teachers of the institution",
+          "The field expertise of fine students and teachers of this institution",
         path: "/episodes/4/technical",
       },
     };

@@ -17,8 +17,10 @@
       </div>
     </ClientOnly>
     <h1 class="p-1 text-center">The New Normal</h1>
-    <div class="pt-4 grid grid-cols-1 lg:grid-cols-3 gap-4">
+    <div class="pt-4 grid grid-cols-1 gap-4">
       <LinkCard :link="lockdown"></LinkCard>
+    </div>
+    <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <LinkCard :link="comps"></LinkCard>
       <LinkCard :link="it"></LinkCard>
       <LinkCard :link="elex"></LinkCard>
@@ -55,7 +57,7 @@ export default {
       comps: {
         title: "BE Comps",
         subtitle: "",
-        path: "/episodes/5/Comps",
+        path: "/episodes/5/comps",
       },
       it: {
         title: "BE IT",

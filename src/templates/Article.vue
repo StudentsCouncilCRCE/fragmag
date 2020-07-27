@@ -5,7 +5,16 @@
       <ArticleMeta :article="$page.article" />
     </div>
     <div class="article content-box">
-      <div class="article__content" v-html="$page.article.content" />
+      <div
+        :class="
+          $page.article.section == 'hindi' ||
+            ($page.article.section == 'marathi'
+              ? 'text-center'
+              : 'text-justify')
+        "
+        class="article__content"
+        v-html="$page.article.content"
+      />
       <div class="article__author" v-html="$page.article.author" />
       <div class="article__class" v-html="$page.article.class" />
     </div>
@@ -72,7 +81,7 @@ query Article ($id: ID!) {
   }
 
   &__content {
-    text-align: justify;
+    //text-align: justify;
     font-family: "Noto Sans", sans-serif !important;
     font-size: 1.1rem;
 
