@@ -230,7 +230,8 @@ export default {
         {
           title: "The New Normal",
           number: "Ep. 5",
-          subtitle: "Coming on 1st August",
+          subtitle: "Lockdown Stories and all about the BEs",
+          path: "/episodes/5",
         },
       ],
     };
