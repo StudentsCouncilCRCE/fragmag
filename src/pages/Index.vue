@@ -233,12 +233,14 @@ export default {
         {
           title: "Writings on the Wall",
           number: "Ep. 4",
-          subtitle: "Coming on 28th July",
+          subtitle: "English and Technical Lierature",
+          path: "/episodes/4",
         },
         {
           title: "The New Normal",
           number: "Ep. 5",
           subtitle: "Coming on 1st August",
+          // path: "/episodes/5",
         },
       ],
     };

@@ -1,9 +1,9 @@
 <template>
   <Layout :show-logo="true">
-    <h1 class="p-1 text-center">Hindi Literature</h1>
+    <h1 class="p-1 text-center">Technical Literature</h1>
     <div class="content pt-4 grid grid-cols-1 gap-4">
       <ArticleListItem
-        v-for="article in $page.hindi.edges"
+        v-for="article in $page.technical.edges"
         :key="article.node.id"
         :article="article.node"
       />
@@ -15,7 +15,7 @@
 
 <page-query>
 query {
-  hindi: allArticle(sortBy:"index", order: ASC, filter: {section: {eq: "hindi"}}) {
+ technical: allArticle(sortBy:"index", order: ASC, filter: {section: {eq: "technical"}}) {
     edges {
       node {
         id
@@ -31,7 +31,7 @@ query {
 
 <style lang="scss" scoped>
 .content {
-  text-align: center;
+  text-align: justify;
 }
 </style>
 
@@ -43,7 +43,7 @@ export default {
     ArticleListItem,
   },
   metaInfo: {
-    title: "Hindi Literature",
+    title: "Technical Literature",
   },
 };
 </script>

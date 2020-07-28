@@ -1,6 +1,11 @@
 <template>
   <div class="article-meta">
-    <template v-if="article.timeToRead && article.section == 'english'">
+    <template
+      v-if="
+        (article.timeToRead && article.section == 'english') ||
+          article.section == 'technical'
+      "
+    >
       <strong>{{ article.timeToRead }} min read</strong>
     </template>
   </div>
