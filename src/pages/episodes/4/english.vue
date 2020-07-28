@@ -43,7 +43,7 @@ export default {
     ArticleListItem,
   },
   metaInfo: {
-    title: "english Literature",
+    title: "English Literature",
   },
 };
 </script>
