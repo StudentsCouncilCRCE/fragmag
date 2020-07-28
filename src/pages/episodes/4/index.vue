@@ -17,7 +17,7 @@
       </div>
     </ClientOnly>
     <h1 class="p-1 text-center">Writings On The Wall</h1>
-    <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-2">
+    <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <LinkCard :link="english"></LinkCard>
       <LinkCard :link="technical"></LinkCard>
     </div>
