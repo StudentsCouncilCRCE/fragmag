@@ -17,7 +17,7 @@
       </div>
     </ClientOnly>
     <h1 class="p-1 text-center">The New Normal</h1>
-    <div class="pt-4 grid grid-cols-1 gap-4">
+    <div class="pt-4 grid grid-cols-1 lg:grid-cols-1 gap-4">
       <LinkCard :link="lockdown"></LinkCard>
     </div>
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
@@ -70,7 +70,7 @@ export default {
         path: "/episodes/5/elex",
       },
       prod: {
-        title: "BE Prod",
+        title: "Lockdown Edition",
         subtitle: "",
         path: "/episodes/5/prod",
       },
