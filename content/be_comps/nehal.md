@@ -1,6 +1,6 @@
 ---
 image: ./images/nehal.webp
 endpoint: nehal
-name: RNehal Vinod Kalnad
-line: Always Available
+name: Nehal Vinod Kalnad
+line: "Always Available"
 ---

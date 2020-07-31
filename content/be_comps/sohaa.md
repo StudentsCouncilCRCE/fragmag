@@ -2,5 +2,5 @@
 image: ./images/sohaa.webp
 endpoint: sohaa
 name: Sohaa Mutsaddi
-line: Boxer Ollie Mom
+line: "Boxer Ollie Mom"
 ---

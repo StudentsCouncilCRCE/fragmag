@@ -1,19 +1,23 @@
 <template>
-  <div class="max-w-sm w-full lg:max-w-full lg:flex">
+  <div class="container mx-auto py-2">
     <div
-      class="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
-      :style="{ 'background-image': 'url(' + person.image + ')' }"
-    ></div>
-    <div
-      class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal"
+      class="bebox h-full w-full inline-grid max-w-xs lg:max-w-lg lg:flex rounded-lg shadow-lg"
     >
-      <div class="mb-8">
-        <div class="text-gray-900 font-bold text-xl mb-2">
-          {{ person.name }}
+      <div class="w-full lg:w-1/3">
+        <g-image
+          :src="person.image"
+          class="h-full w-full rounded-t-lg lg:rounded-t-none lg:rounded-l-lg  object-contain object-center"
+        />
+      </div>
+      <div class="w-full lg:w-2/3 p-2 flex vcenter">
+        <div class="">
+          <div class="font-semibold text-xl text-center">
+            {{ person.name }}
+          </div>
+          <div class="text-sm my-1 opacity-75 text-center">
+            {{ person.line }}
+          </div>
         </div>
-        <p class="text-gray-700 text-base">
-          {{ person.line }}
-        </p>
       </div>
     </div>
   </div>
@@ -25,4 +29,12 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss">
+.bebox {
+  background-color: var(--bg-content-becard);
+}
+.vcenter {
+  align-items: center;
+  justify-content: center;
+}
+</style>
