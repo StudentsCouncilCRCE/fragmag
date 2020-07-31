@@ -70,6 +70,13 @@ module.exports = {
         path: "content/be_comps/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Prod",
+        path: "content/be_prod/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {
