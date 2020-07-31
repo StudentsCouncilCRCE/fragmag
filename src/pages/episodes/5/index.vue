@@ -70,7 +70,7 @@ export default {
         path: "/episodes/5/elex",
       },
       prod: {
-        title: "Lockdown Edition",
+        title: "BE Prod",
         subtitle: "",
         path: "/episodes/5/prod",
       },
