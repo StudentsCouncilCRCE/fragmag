@@ -7,8 +7,6 @@ author: Chirayu Jha
 endpoint: /be-prod
 ---
 
-![BE Prod](./images/prod.webp)
-
 “College will be the best 4 years of your life”, hasn’t everyone heard this phrase at least once before entering this phase of their lives? So did I, but I often wondered why is it believed to be so? What special does it have? Is it college specific? Today, when I write this article, my heart feels heavy, because I now know the answer to these questions, I am indeed on the other-side of the 4 years.
 
 15th July, 2016, I was at home preparing to go to SRM, Chennai. I had a flight on 17th. When my dad called and said, “I am sending Munshiji (my driver), just come where he gets you.” I had no idea what was going on. I was being virtually kidnapped. So I just got ready and left. And here I was at Fr. Conceicao Rodrigues College of Engineering, staring at my dad signing a cheque. So this was my Introduction to the place where I was going to spend my “4 most precious years” of my life. I was in awe of the location (obviously). But there was something more, there was a very unusual feeling of belonging I had there. Everything just felt right.

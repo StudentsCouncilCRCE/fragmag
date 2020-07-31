@@ -2,5 +2,5 @@
 image: ./images/sankalp.webp
 endpoint: sankalp
 name: Sankalp Subodh Rane
-line: Her reactions to my actions…..
+line: I wish there was a way to know you're in the good old days before you've actually left them -Andrew Bernard (The Office)
 ---

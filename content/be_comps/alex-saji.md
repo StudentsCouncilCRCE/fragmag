@@ -2,5 +2,5 @@
 image: ./images/alex-saji.webp
 endpoint: alex-saji
 name: Alex Saji
-line: I never had her so I became her…..
+line: When you tell the auto driver to stop at Andrews and he stops in front of the Church
 ---
