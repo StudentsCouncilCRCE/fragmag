@@ -21,10 +21,8 @@
       <LinkCard :link="lockdown"></LinkCard>
     </div>
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
-      <LinkCard :link="comps"></LinkCard>
-      <LinkCard :link="it"></LinkCard>
-      <LinkCard :link="elex"></LinkCard>
-      <LinkCard :link="prod"></LinkCard>
+      <LinkCard :link="article"></LinkCard>
+      <LinkCard :link="liners"></LinkCard>
     </div>
   </Layout>
 </template>
@@ -51,28 +49,18 @@ export default {
     return {
       lockdown: {
         title: "Lockdown Edition",
-        subtitle: "",
+        //subtitle: "",
         path: "/episodes/5/lockdown",
       },
-      comps: {
-        title: "BE Comps",
-        subtitle: "",
-        path: "/episodes/5/comps",
+      article: {
+        title: "BE Class Photos and Articles",
+        //subtitle: "",
+        path: "/episodes/5/be-article",
       },
-      it: {
-        title: "BE IT",
-        subtitle: "",
-        path: "/episodes/5/it",
-      },
-      elex: {
-        title: "BE Elex",
-        subtitle: "",
-        path: "/episodes/5/elex",
-      },
-      prod: {
-        title: "BE Prod",
-        subtitle: "",
-        path: "/episodes/5/prod",
+      liners: {
+        title: "BE One-Liners",
+        //subtitle: "",
+        path: "/episodes/5/liners",
       },
     };
   },
