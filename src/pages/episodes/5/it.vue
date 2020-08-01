@@ -1,23 +1,45 @@
 <template>
   <Layout :show-logo="true">
     <h1 class="p-1 text-center">BE IT</h1>
-    <div class="pt-4 grid grid-cols-1 lg:grid-cols-3 gap-4"></div>
+    <div class="content pt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
+      <BECard v-for="person in $page.it.edges" :key="person.node.id" :person="person.node" />
+    </div>
   </Layout>
 </template>
 
-<style scoped lang="scss">
-.doodle {
-  opacity: 0.75;
-  display: flex;
-  z-index: -1000;
-  margin: 1rem 5rem;
-  position: absolute;
-  $breakpoint-tablet: 768px;
-  @media (min-width: $breakpoint-tablet) {
-    margin: 2.5rem 30rem;
+<style scoped lang="scss"></style>
+
+<page-query>
+query {
+ it: allIt {
+    edges {
+      node {
+        id
+        name
+        line
+        image (blur: 10, width: 180, height: 320)
+        path
+      }
+    }
   }
+}
+</page-query>
+
+<style lang="scss" scoped>
+.content {
+  text-align: justify;
 }
 </style>
 
 <script>
+import BECard from "~/components/BECard.vue";
+
+export default {
+  components: {
+    BECard,
+  },
+  metaInfo: {
+    title: "BE IT",
+  },
+};
 </script>

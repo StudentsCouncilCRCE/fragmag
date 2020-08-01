@@ -7,6 +7,7 @@ html {
 body {
   --bg-color: #eef3f7;
   --bg-content-color: #fff;
+  --bg-content-becard: #fff;
   --bg-code: #fffbf3;
   --body-color: rgb(34, 34, 34);
   --title-color: #111;
@@ -33,6 +34,7 @@ body {
 body[data-theme="dark"] {
   --bg-color: #0d2538;
   --bg-content-color: #0f2d44;
+  --bg-content-becard: #041624;
   --bg-code: rgba(0, 0, 0, 0.3);
   --border-color: rgba(255, 255, 255, 0.1);
   --body-color: #ecf3f8;

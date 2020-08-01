@@ -63,6 +63,34 @@ module.exports = {
         path: "content/photography/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Comps",
+        path: "content/be_comps/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Prod",
+        path: "content/be_prod/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Elex",
+        path: "content/be_elex/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "It",
+        path: "content/be_it/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {
