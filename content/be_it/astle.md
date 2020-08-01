@@ -1,6 +1,6 @@
 ---
 image: ./images/astle.webp
 endpoint: astle
-name: Puja Sharma
+name: Astle Dbritto
 line: "To 'B.E' or not to 'B.E' that's the main question."
 ---
