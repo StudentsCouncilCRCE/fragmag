@@ -3,7 +3,6 @@
     <h1 class="p-1 text-center">BE One-Liners</h1>
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <LinkCard :link="comps"></LinkCard>
-      <LinkCard :link="prod"></LinkCard>
       <LinkCard :link="elex"></LinkCard>
     </div>
   </Layout>
@@ -21,10 +20,6 @@ export default {
       comps: {
         title: "BE Computers",
         path: "/episodes/5/comps",
-      },
-      prod: {
-        title: "BE Production",
-        path: "/episodes/5/prod",
       },
       elex: {
         title: "BE Electronics",
