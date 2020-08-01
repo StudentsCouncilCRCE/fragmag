@@ -4,6 +4,7 @@
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <LinkCard :link="comps"></LinkCard>
       <LinkCard :link="prod"></LinkCard>
+      <LinkCard :link="elex"></LinkCard>
     </div>
   </Layout>
 </template>
@@ -18,13 +19,16 @@ export default {
   data() {
     return {
       comps: {
-        title: "BE Comps",
+        title: "BE Computers",
         path: "/episodes/5/comps",
       },
-
       prod: {
-        title: "BE Prod",
+        title: "BE Production",
         path: "/episodes/5/prod",
+      },
+      elex: {
+        title: "BE Electronics",
+        path: "/episodes/5/elex",
       },
     };
   },
