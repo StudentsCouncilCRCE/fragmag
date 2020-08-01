@@ -2,5 +2,5 @@
 image: ./images/pradhynal.webp
 endpoint: pradhynal
 name: Pradhynal Kulkarni
-line: ""
+line: "RST FOR LIFE."
 ---

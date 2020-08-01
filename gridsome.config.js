@@ -84,6 +84,13 @@ module.exports = {
         path: "content/be_elex/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "It",
+        path: "content/be_it/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {
