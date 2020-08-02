@@ -49,7 +49,7 @@ export default {
   data() {
     return {
       stuco: {
-        title: "Students' Council Journey 2020",
+        title: "Students' Council Journey 2019-20",
         //subtitle: "",
         path: "/final/stuco",
       },
@@ -59,7 +59,7 @@ export default {
         path: "/final/hod",
       },
       ext: {
-        title: "Extended Stuco",
+        title: "Extended StuCo",
         //subtitle: "",
         path: "/final/ext",
       },

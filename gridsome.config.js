@@ -98,6 +98,13 @@ module.exports = {
         path: "content/team/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Stuco",
+        path: "content/stuco/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {
