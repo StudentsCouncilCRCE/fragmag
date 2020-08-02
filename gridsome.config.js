@@ -91,6 +91,13 @@ module.exports = {
         path: "content/be_it/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Team",
+        path: "content/team/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {
