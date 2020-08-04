@@ -1,5 +1,5 @@
 ---
-index: 1
+index: 10
 image: ./images/bhoir.webp
 endpoint: bhoir
 name: Dr. D V Bhoir

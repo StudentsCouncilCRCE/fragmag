@@ -108,8 +108,8 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        typeName: "Hod",
-        path: "content/hod/*.md",
+        typeName: "Well",
+        path: "content/well/*.md",
       },
     },
     {
@@ -124,6 +124,13 @@ module.exports = {
       options: {
         typeName: "Signoff",
         path: "content/signoff/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Faculty",
+        path: "content/faculty/*.md",
       },
     },
   ],

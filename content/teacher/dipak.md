@@ -2,6 +2,6 @@
 index: 2
 image: ./images/dipak.webp
 endpoint: dipak
-name: Prof Dipak Bauskar
+name: Dr. Dipak Bauskar
 class: "Sports Coordinator"
 ---

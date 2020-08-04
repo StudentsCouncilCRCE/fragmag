@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 11
 image: ./images/bhushan.webp
 endpoint: bhushan
 name: Dr. Bhushan Patil

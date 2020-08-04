@@ -18,11 +18,12 @@
     </ClientOnly>
     <h1 class="p-1 text-center">One Last Time</h1>
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
-      <LinkCard :link="stuco"></LinkCard>
-      <LinkCard :link="hod"></LinkCard>
-      <LinkCard :link="ext"></LinkCard>
+      <LinkCard :link="well"></LinkCard>
       <LinkCard :link="teacher"></LinkCard>
+      <LinkCard :link="faculty"></LinkCard>
       <LinkCard :link="team"></LinkCard>
+      <LinkCard :link="ext"></LinkCard>
+      <LinkCard :link="stuco"></LinkCard>
       <LinkCard :link="signoff"></LinkCard>
     </div>
   </Layout>
@@ -48,13 +49,18 @@ import LinkCard from "~/components/LinkCard.vue";
 export default {
   data() {
     return {
+      well: {
+        title: "Our Well Wishers",
+        //subtitle: "",
+        path: "/final/well",
+      },
       stuco: {
         title: "Students' Council Journey 2019-20",
         //subtitle: "",
         path: "/final/stuco",
       },
-      hod: {
-        title: "Deans and HODs",
+      faculty: {
+        title: "Teaching and Non-Teaching Faculty",
         //subtitle: "",
         path: "/final/hod",
       },

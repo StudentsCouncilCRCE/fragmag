@@ -1,8 +1,8 @@
 <template>
   <Layout :show-logo="true">
-    <h1 class="p-1 text-center">Deans and HODs</h1>
+    <h1 class="p-1 text-center">Our Well Wishers</h1>
     <div class="content pt-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      <PhotoViewCard v-for="hod in $page.hod.edges" :key="hod.node.id" :photo="hod.node" />
+      <PhotoViewCard v-for="well in $page.well.edges" :key="well.node.id" :photo="well.node" />
     </div>
   </Layout>
 </template>
@@ -11,7 +11,7 @@
 
 <page-query>
 query {
-  hod: allHod (sortBy:"index", order: ASC){
+  well: allWell (sortBy:"index", order: ASC){
     edges {
       node {
         id
@@ -40,7 +40,7 @@ export default {
     PhotoViewCard,
   },
   metaInfo: {
-    title: "Deans and HODs",
+    title: "Our Well Wishers",
   },
 };
 </script>
