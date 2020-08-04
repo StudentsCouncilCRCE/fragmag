@@ -2,6 +2,6 @@
 index: 6
 image: ./images/jagruti.webp
 endpoint: jagruti
-name: Jagruti Save
+name: Dr. Jagruti Save
 class: "HOD Of IT"
 ---

@@ -16,7 +16,7 @@
         </css-doodle>
       </div>
     </ClientOnly>
-    <h1 class="p-1 text-center">One Last Time</h1>
+    <h1 class="p-1 text-center">Signing Off</h1>
     <div class="pt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
       <LinkCard :link="well"></LinkCard>
       <LinkCard :link="teacher"></LinkCard>
@@ -62,7 +62,7 @@ export default {
       faculty: {
         title: "Teaching and Non-Teaching Faculty",
         //subtitle: "",
-        path: "/final/hod",
+        path: "/final/faculty",
       },
       ext: {
         title: "Extended StuCo",
@@ -90,7 +90,7 @@ export default {
     LinkCard,
   },
   metaInfo: {
-    title: "One Last Time",
+    title: "Signing Off",
   },
 };
 </script>

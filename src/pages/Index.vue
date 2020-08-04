@@ -238,7 +238,7 @@ export default {
         },
       ],
       final: {
-        title: "One Last Time &rarr;",
+        title: "Signing Off &rarr;",
         path: "/final",
       },
     };
