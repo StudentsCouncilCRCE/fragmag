@@ -91,6 +91,48 @@ module.exports = {
         path: "content/be_it/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Team",
+        path: "content/team/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Stuco",
+        path: "content/stuco/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Well",
+        path: "content/well/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Teacher",
+        path: "content/teacher/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Signoff",
+        path: "content/signoff/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Faculty",
+        path: "content/faculty/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {

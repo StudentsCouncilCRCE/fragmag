@@ -57,11 +57,14 @@
           :item="edge.node"
         />
       </div>
-      <div class="content-center text-center editorial">
+      <div class="w-100 pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-4">
         <LinkCard :link="editorial" />
       </div>
       <div class="w-100 pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         <LinkCard v-for="episode in episodes" :key="episode.title" :link="episode" />
+      </div>
+      <div class="w-100 pt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-4">
+        <LinkCard :link="final" />
       </div>
     </div>
   </Layout>
@@ -234,6 +237,10 @@ export default {
           path: "/episodes/5",
         },
       ],
+      final: {
+        title: "Signing Off &rarr;",
+        path: "/final",
+      },
     };
   },
   components: {
