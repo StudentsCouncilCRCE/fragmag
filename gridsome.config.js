@@ -105,6 +105,27 @@ module.exports = {
         path: "content/stuco/*.md",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Hod",
+        path: "content/hod/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Teacher",
+        path: "content/teacher/*.md",
+      },
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Signoff",
+        path: "content/signoff/*.md",
+      },
+    },
   ],
   transformers: {
     remark: {

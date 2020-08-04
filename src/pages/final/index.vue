@@ -64,7 +64,7 @@ export default {
         path: "/final/ext",
       },
       teacher: {
-        title: "Teacher Incharges",
+        title: "Event Coordinators",
         //subtitle: "",
         path: "/final/teacher",
       },

@@ -1,7 +1,7 @@
 ---
-index: 5
+index: 8
 image: ./images/richa.webp
 endpoint: richa
 name: Richa Tripathi
-class: SE Elex
+class: "Hindi Editor"
 ---

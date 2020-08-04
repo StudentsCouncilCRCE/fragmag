@@ -1,7 +1,7 @@
 ---
-index: 4
+index: 10
 image: ./images/yohaan.webp
 endpoint: yohaan
 name: Yohaan Mhatre
-class: FE E
+class: "Official Photographer"
 ---

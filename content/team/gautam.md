@@ -1,7 +1,7 @@
 ---
-index: 8
+index: 11
 image: ./images/gautam.webp
 endpoint: gautam
-name: Gautam
-class:
+name: Gautam Manuel
+class: "FE Official Photographer"
 ---
